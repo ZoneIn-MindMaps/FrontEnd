@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+  background: #fff;
+}
+form {
+  margin: 3rem auto 0;
+  width: 24rem;
+}
+form .MuiFormControl-root,
+form .MuiTextField-root,
+form .MuiButton-root {
+  width: inherit;
+}
+form .MuiFormControl-root,
+form .MuiFormControlLabel-root,
+form .MuiTextField-root {
+  margin-bottom: 1rem;
+}
+form .MuiFormControl-root:nth-child(2) {
+  margin-bottom: 1.5rem;
+}
+form .MuiFormGroup-root .MuiFormControlLabel-root {
+  margin-bottom: 0;
+}

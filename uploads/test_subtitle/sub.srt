@@ -1,0 +1,8192 @@
+1
+00:00:37,000 --> 00:00:41,840
+good evening everyone my name is Anna
+
+2
+00:00:41,840 --> 00:00:43,699
+ghee and I run the Ames Moot Court
+
+3
+00:00:43,699 --> 00:00:45,410
+Competition for the board of student
+
+4
+00:00:45,410 --> 00:00:47,890
+advisors
+
+5
+00:00:49,600 --> 00:00:52,399
+welcome to the Ames moot court final
+
+6
+00:00:52,399 --> 00:00:55,010
+round presiding over this year's
+
+7
+00:00:55,010 --> 00:00:57,019
+competition are the Honorable Sonia
+
+8
+00:00:57,019 --> 00:00:58,820
+Sotomayor of the Supreme Court of the
+
+9
+00:00:58,820 --> 00:01:01,579
+United States the Honorable Susan L
+
+10
+00:01:01,579 --> 00:01:03,170
+Carney of the United States Court of
+
+11
+00:01:03,170 --> 00:01:05,540
+Appeals for the Second Circuit and the
+
+12
+00:01:05,540 --> 00:01:07,490
+Honorable Jennifer Walker elrod of the
+
+13
+00:01:07,490 --> 00:01:09,080
+United States Court of Appeals for the
+
+14
+00:01:09,080 --> 00:01:12,200
+Fifth Circuit tonight's case was written
+
+15
+00:01:12,200 --> 00:01:14,539
+by Elizabeth bark Aspray lager and to
+
+16
+00:01:14,539 --> 00:01:18,500
+gender sing this evenings case poses two
+
+17
+00:01:18,500 --> 00:01:21,710
+key questions first whether a statute
+
+18
+00:01:21,710 --> 00:01:23,330
+prohibiting an individual from
+
+19
+00:01:23,330 --> 00:01:25,070
+possessing a firearm if he's been
+
+20
+00:01:25,070 --> 00:01:26,570
+convicted of a criminal offense
+
+21
+00:01:26,570 --> 00:01:28,700
+punishable by more than two years of
+
+22
+00:01:28,700 --> 00:01:30,350
+imprisonment violates the Second
+
+23
+00:01:30,350 --> 00:01:32,869
+Amendment and second whether a statue
+
+24
+00:01:32,869 --> 00:01:34,850
+prohibiting individuals from publishing
+
+25
+00:01:34,850 --> 00:01:37,729
+CAG files on the internet that can be
+
+26
+00:01:37,729 --> 00:01:39,979
+used to program a 3d printer to print a
+
+27
+00:01:39,979 --> 00:01:42,470
+firearm violates the free speech Clause
+
+28
+00:01:42,470 --> 00:01:45,470
+of the First Amendment representing the
+
+29
+00:01:45,470 --> 00:01:47,329
+petitioner the grace Murray hopper
+
+30
+00:01:47,329 --> 00:01:52,009
+memorial team max Kochel oralist erika
+
+31
+00:01:52,009 --> 00:01:55,070
+herrera benjamin Lewis Catherine
+
+32
+00:01:55,070 --> 00:01:57,950
+McCaffrey oralist Eliza McDuffie and
+
+33
+00:01:57,950 --> 00:02:00,710
+Jacqueline Saul Berg representing the
+
+34
+00:02:00,710 --> 00:02:02,299
+respondent the Clarence Earl Gideon
+
+35
+00:02:02,299 --> 00:02:05,960
+memorial team Jeff Adler nikka Carr
+
+36
+00:02:05,960 --> 00:02:06,799
+oralist
+
+37
+00:02:06,799 --> 00:02:10,038
+Gabrielle bells L Marlin golden oralist
+
+38
+00:02:10,038 --> 00:02:13,579
+Lilly Kim and Daniel Morales please
+
+39
+00:02:13,579 --> 00:02:15,850
+silence all phone and electronic devices
+
+40
+00:02:15,850 --> 00:02:18,440
+please no photos and please avoid
+
+41
+00:02:18,440 --> 00:02:20,060
+leading the court leaving the courtroom
+
+42
+00:02:20,060 --> 00:02:22,609
+during argument thank you and enjoy the
+
+43
+00:02:22,609 --> 00:02:25,000
+competition
+
+44
+00:02:29,850 --> 00:02:33,260
+[Applause]
+
+45
+00:02:33,260 --> 00:02:37,890
+all rise the Honorable the Chief Justice
+
+46
+00:02:37,890 --> 00:02:40,170
+and the associate justices of the
+
+47
+00:02:40,170 --> 00:02:42,890
+Supreme Court of the United States
+
+48
+00:02:42,890 --> 00:02:47,460
+oyez oyez oyez all persons having
+
+49
+00:02:47,460 --> 00:02:49,320
+business before the Honorable the
+
+50
+00:02:49,320 --> 00:02:51,540
+Supreme Court of the United States are
+
+51
+00:02:51,540 --> 00:02:53,940
+admonished to draw near and give their
+
+52
+00:02:53,940 --> 00:02:56,360
+attention for the court is now sitting
+
+53
+00:02:56,360 --> 00:02:59,370
+God saved the United States and this
+
+54
+00:02:59,370 --> 00:03:04,160
+honorable Court please have a seat
+
+55
+00:03:08,770 --> 00:03:12,220
+petitioners are you ready
+
+56
+00:03:22,510 --> 00:03:24,530
+madam Chief Justice and may it please
+
+57
+00:03:24,530 --> 00:03:27,140
+the court my name is max Kajal and on
+
+58
+00:03:27,140 --> 00:03:29,000
+behalf of petitioner Ian groves I will
+
+59
+00:03:29,000 --> 00:03:30,980
+address the First Amendment issue we
+
+60
+00:03:30,980 --> 00:03:32,540
+would like to reserve three minutes for
+
+61
+00:03:32,540 --> 00:03:33,110
+rebuttal
+
+62
+00:03:33,110 --> 00:03:36,110
+thank you two years ago mr. groves
+
+63
+00:03:36,110 --> 00:03:37,760
+created a digital design for a
+
+64
+00:03:37,760 --> 00:03:40,580
+single-shot plastic firearm following
+
+65
+00:03:40,580 --> 00:03:42,320
+instructions provided by groves that
+
+66
+00:03:42,320 --> 00:03:44,600
+design can be used to 3d print a set of
+
+67
+00:03:44,600 --> 00:03:46,730
+parts which can then be assembled into
+
+68
+00:03:46,730 --> 00:03:48,920
+the firearm although similar designs
+
+69
+00:03:48,920 --> 00:03:50,720
+have been accessible online for years
+
+70
+00:03:50,720 --> 00:03:52,850
+Ames is the only state in the nation to
+
+71
+00:03:52,850 --> 00:03:54,830
+have made it a felony to publish such
+
+72
+00:03:54,830 --> 00:03:57,080
+designs on the internet that law
+
+73
+00:03:57,080 --> 00:03:59,000
+violates the First Amendment for three
+
+74
+00:03:59,000 --> 00:04:01,040
+reasons first under this Court's
+
+75
+00:04:01,040 --> 00:04:02,810
+precedents in Bar Nicky and Free Speech
+
+76
+00:04:02,810 --> 00:04:05,240
+Coalition the law impermissibly targets
+
+77
+00:04:05,240 --> 00:04:07,370
+groves a speech to prevent third parties
+
+78
+00:04:07,370 --> 00:04:09,710
+criminal conduct second the law is
+
+79
+00:04:09,710 --> 00:04:11,930
+significantly over-inclusive because it
+
+80
+00:04:11,930 --> 00:04:13,580
+prevents grouse from sharing his design
+
+81
+00:04:13,580 --> 00:04:15,560
+with the many citizens of Ames who will
+
+82
+00:04:15,560 --> 00:04:17,959
+not put it to harmful uses third and
+
+83
+00:04:17,959 --> 00:04:19,610
+finally the law is a facially
+
+84
+00:04:19,610 --> 00:04:21,950
+content-based regulation of speech that
+
+85
+00:04:21,950 --> 00:04:23,930
+the state has not justified as actually
+
+86
+00:04:23,930 --> 00:04:26,120
+necessary to solve a current problem
+
+87
+00:04:26,120 --> 00:04:30,670
+counselor why should we our our
+
+88
+00:04:30,670 --> 00:04:34,880
+established precedent isn't this a new
+
+89
+00:04:34,880 --> 00:04:38,450
+form of technology your honor given that
+
+90
+00:04:38,450 --> 00:04:41,090
+it is shouldn't we be thinking about it
+
+91
+00:04:41,090 --> 00:04:42,320
+in a different way
+
+92
+00:04:42,320 --> 00:04:45,110
+your us is the first bit of technology
+
+93
+00:04:45,110 --> 00:04:48,020
+that I've ever seen that can direct
+
+94
+00:04:48,020 --> 00:04:52,190
+another machine to create an item that
+
+95
+00:04:52,190 --> 00:04:54,130
+could be put to dangerous use
+
+96
+00:04:54,130 --> 00:04:56,600
+Your Honor several points on that first
+
+97
+00:04:56,600 --> 00:05:00,230
+I think with respect this is an old kind
+
+98
+00:05:00,230 --> 00:05:02,500
+of speech it's a blueprint it's a design
+
+99
+00:05:02,500 --> 00:05:05,210
+foreign object the difference is that on
+
+100
+00:05:05,210 --> 00:05:07,520
+the user and a person now has access to
+
+101
+00:05:07,520 --> 00:05:10,600
+technology expensive technology that can
+
+102
+00:05:10,600 --> 00:05:13,310
+following the directions of giving it's
+
+103
+00:05:13,310 --> 00:05:15,740
+giving this technology can be used to
+
+104
+00:05:15,740 --> 00:05:19,700
+give a machine directions on how to
+
+105
+00:05:19,700 --> 00:05:24,620
+manufacture a dangerous item is very
+
+106
+00:05:24,620 --> 00:05:26,800
+different than any blueprint that we've
+
+107
+00:05:26,800 --> 00:05:28,639
+permitted in the past
+
+108
+00:05:28,639 --> 00:05:32,960
+those blueprints require an individual
+
+109
+00:05:32,960 --> 00:05:35,900
+to actually follow them assemble all of
+
+110
+00:05:35,900 --> 00:05:38,330
+the mechanisms necessary to put them
+
+111
+00:05:38,330 --> 00:05:40,550
+into effect it's one thing to build a
+
+112
+00:05:40,550 --> 00:05:42,620
+building you've got to get a lot of
+
+113
+00:05:42,620 --> 00:05:44,810
+things to build that building here all
+
+114
+00:05:44,810 --> 00:05:47,270
+you need is a 3d printer essentially
+
+115
+00:05:47,270 --> 00:05:48,770
+we're hundred I think you need the 3d
+
+116
+00:05:48,770 --> 00:05:50,090
+printer I think you also need the
+
+117
+00:05:50,090 --> 00:05:52,279
+appropriate raw materials you also need
+
+118
+00:05:52,279 --> 00:05:54,379
+a significant amount of technical
+
+119
+00:05:54,379 --> 00:05:56,180
+know-how to know how to operate it no
+
+120
+00:05:56,180 --> 00:05:57,319
+doubt it's easier than building a
+
+121
+00:05:57,319 --> 00:05:58,939
+building but we still submit there's
+
+122
+00:05:58,939 --> 00:06:01,129
+quite a bit of knowledge and expertise
+
+123
+00:06:01,129 --> 00:06:02,509
+that goes into the downloader side
+
+124
+00:06:02,509 --> 00:06:05,750
+before a person can take this this file
+
+125
+00:06:05,750 --> 00:06:08,210
+and turn it into a working firearm in
+
+126
+00:06:08,210 --> 00:06:09,409
+particular your honor it's our
+
+127
+00:06:09,409 --> 00:06:11,029
+submission as we say in our brief that
+
+128
+00:06:11,029 --> 00:06:13,520
+the kind of file is that our client
+
+129
+00:06:13,520 --> 00:06:15,529
+wants to upload to the internet actually
+
+130
+00:06:15,529 --> 00:06:17,479
+cannot direct a 3d printer to do
+
+131
+00:06:17,479 --> 00:06:19,250
+anything at all they need to be altered
+
+132
+00:06:19,250 --> 00:06:21,680
+on the downloader end as we say in our
+
+133
+00:06:21,680 --> 00:06:24,139
+opening brief sliced before they can
+
+134
+00:06:24,139 --> 00:06:25,879
+actually communicate to a 3d printer and
+
+135
+00:06:25,879 --> 00:06:27,469
+we think that makes that make some
+
+136
+00:06:27,469 --> 00:06:29,089
+difference these really are nothing more
+
+137
+00:06:29,089 --> 00:06:31,759
+than digital versions of blueprints or
+
+138
+00:06:31,759 --> 00:06:33,889
+of other descriptions visual or
+
+139
+00:06:33,889 --> 00:06:35,960
+otherwise of objects and so we think
+
+140
+00:06:35,960 --> 00:06:37,250
+it's better to think of this as the
+
+141
+00:06:37,250 --> 00:06:39,169
+dissemination of those kinds of
+
+142
+00:06:39,169 --> 00:06:41,300
+blueprints and that we think under this
+
+143
+00:06:41,300 --> 00:06:43,279
+Court's precedents in Sorel and in
+
+144
+00:06:43,279 --> 00:06:44,839
+bartnick II the dissemination of that
+
+145
+00:06:44,839 --> 00:06:46,520
+kind of truthful information is
+
+146
+00:06:46,520 --> 00:06:49,279
+protected speech and the fact that it
+
+147
+00:06:49,279 --> 00:06:51,169
+can be used on the downloader end and
+
+148
+00:06:51,169 --> 00:06:53,689
+put to unlawful ends if the person so
+
+149
+00:06:53,689 --> 00:06:56,149
+chooses doesn't change that fact why is
+
+150
+00:06:56,149 --> 00:06:59,919
+it that your clients made a CAD that
+
+151
+00:06:59,919 --> 00:07:04,490
+students require the use of a metal part
+
+152
+00:07:04,490 --> 00:07:07,789
+so detectors could work on it I know
+
+153
+00:07:07,789 --> 00:07:12,139
+that he has a metal a slot in which a
+
+154
+00:07:12,139 --> 00:07:15,229
+metal part can be placed but isn't his
+
+155
+00:07:15,229 --> 00:07:17,689
+intent to actually facilitate the
+
+156
+00:07:17,689 --> 00:07:20,629
+illegal transport of a gun through
+
+157
+00:07:20,629 --> 00:07:23,210
+security Your Honor I don't think that's
+
+158
+00:07:23,210 --> 00:07:25,849
+mr. Gross's intent he did it wasn't his
+
+159
+00:07:25,849 --> 00:07:28,819
+intent why didn't he make a pedal piece
+
+160
+00:07:28,819 --> 00:07:31,759
+a necessary part of the gun Your Honor
+
+161
+00:07:31,759 --> 00:07:33,349
+the record is not clear on that and I'm
+
+162
+00:07:33,349 --> 00:07:35,000
+not sure why he didn't but he did I
+
+163
+00:07:35,000 --> 00:07:36,709
+think do everything an uploader of this
+
+164
+00:07:36,709 --> 00:07:38,899
+kind of information could do to ensure
+
+165
+00:07:38,899 --> 00:07:40,849
+that when it was 3d printed the firearm
+
+166
+00:07:40,849 --> 00:07:42,370
+would be metal detectable
+
+167
+00:07:42,370 --> 00:07:44,350
+because as the record reflects at the
+
+168
+00:07:44,350 --> 00:07:46,900
+joint appendix 18 the design includes a
+
+169
+00:07:46,900 --> 00:07:48,820
+hole where a metal slug can be inputted
+
+170
+00:07:48,820 --> 00:07:50,560
+and indeed but it has no functional use
+
+171
+00:07:50,560 --> 00:07:52,660
+that's right your honor but it's our
+
+172
+00:07:52,660 --> 00:07:54,040
+understanding that it would be difficult
+
+173
+00:07:54,040 --> 00:07:57,490
+I think to to require that too to make
+
+174
+00:07:57,490 --> 00:08:00,930
+the metal piece be used but it's our
+
+175
+00:08:00,930 --> 00:08:04,330
+required your honor that's one of the
+
+176
+00:08:04,330 --> 00:08:05,889
+less restrictive alternatives that we
+
+177
+00:08:05,889 --> 00:08:07,990
+that we suggest is it wouldn't that be a
+
+178
+00:08:07,990 --> 00:08:09,699
+violation of the First Amendment you'd
+
+179
+00:08:09,699 --> 00:08:13,120
+be up here arguing that we were forcing
+
+180
+00:08:13,120 --> 00:08:15,100
+him to speak in the way he didn't want
+
+181
+00:08:15,100 --> 00:08:16,990
+to speak your honor I don't think that
+
+182
+00:08:16,990 --> 00:08:18,729
+we would be saying that this was a sort
+
+183
+00:08:18,729 --> 00:08:20,440
+of sort of compelled speech situation
+
+184
+00:08:20,440 --> 00:08:21,820
+and you'll write that under the
+
+185
+00:08:21,820 --> 00:08:23,320
+principles your honor is correct and
+
+186
+00:08:23,320 --> 00:08:24,970
+under the principles we think resolve
+
+187
+00:08:24,970 --> 00:08:26,530
+this case in Ashcroft and free and
+
+188
+00:08:26,530 --> 00:08:29,830
+Bartnik II that it would be still going
+
+189
+00:08:29,830 --> 00:08:32,589
+after groves is speech because some
+
+190
+00:08:32,589 --> 00:08:34,210
+third person quite apart from that
+
+191
+00:08:34,210 --> 00:08:36,099
+speech would be using it to commit a
+
+192
+00:08:36,099 --> 00:08:38,110
+criminal act it's important to note here
+
+193
+00:08:38,110 --> 00:08:40,270
+that just as it would be a third
+
+194
+00:08:40,270 --> 00:08:42,520
+person's independent choice to take this
+
+195
+00:08:42,520 --> 00:08:44,380
+firearm once it was assembled and use it
+
+196
+00:08:44,380 --> 00:08:45,850
+to commit a crime it's also an
+
+197
+00:08:45,850 --> 00:08:47,200
+independent choice on the part of the
+
+198
+00:08:47,200 --> 00:08:49,390
+downloader to choose not to insert the
+
+199
+00:08:49,390 --> 00:08:51,490
+metal slug that grouse has instructed
+
+200
+00:08:51,490 --> 00:08:54,310
+people who download this firearm to do
+
+201
+00:08:54,310 --> 00:08:58,810
+so we think either way that this is
+
+202
+00:08:58,810 --> 00:09:01,240
+still going after speech because the
+
+203
+00:09:01,240 --> 00:09:03,459
+government is worried that some
+
+204
+00:09:03,459 --> 00:09:05,050
+listeners for that speech will put it to
+
+205
+00:09:05,050 --> 00:09:06,790
+unlawful uses and that gets to the
+
+206
+00:09:06,790 --> 00:09:08,350
+second core point I would like to make
+
+207
+00:09:08,350 --> 00:09:10,120
+about this law being significantly
+
+208
+00:09:10,120 --> 00:09:12,100
+over-inclusive we think this law is
+
+209
+00:09:12,100 --> 00:09:14,279
+really no different than regulating all
+
+210
+00:09:14,279 --> 00:09:16,990
+leafleting to prevent littering of
+
+211
+00:09:16,990 --> 00:09:18,850
+course some recipients of leaflets as
+
+212
+00:09:18,850 --> 00:09:20,020
+this court said in the Schneider case
+
+213
+00:09:20,020 --> 00:09:22,390
+will put it to the littering use but
+
+214
+00:09:22,390 --> 00:09:24,310
+where the state retains the power to go
+
+215
+00:09:24,310 --> 00:09:26,350
+after littering primarily it is not
+
+216
+00:09:26,350 --> 00:09:28,390
+allowed to go after the leafleting even
+
+217
+00:09:28,390 --> 00:09:29,680
+though that would perhaps be a slightly
+
+218
+00:09:29,680 --> 00:09:31,150
+more effective way of advancing their
+
+219
+00:09:31,150 --> 00:09:33,520
+goals you could you speak to the import
+
+220
+00:09:33,520 --> 00:09:35,890
+of the statutes restriction on
+
+221
+00:09:35,890 --> 00:09:38,440
+publication to the internet other modes
+
+222
+00:09:38,440 --> 00:09:40,600
+of publication are made available you've
+
+223
+00:09:40,600 --> 00:09:45,040
+made an argument that making the schema
+
+224
+00:09:45,040 --> 00:09:47,560
+schematics available is important to
+
+225
+00:09:47,560 --> 00:09:49,420
+artistic and scientific and
+
+226
+00:09:49,420 --> 00:09:50,709
+entertainment serves other kind of
+
+227
+00:09:50,709 --> 00:09:54,070
+communicative values but your client has
+
+228
+00:09:54,070 --> 00:09:55,089
+available to him
+
+229
+00:09:55,089 --> 00:09:57,009
+their means of publication that is
+
+230
+00:09:57,009 --> 00:10:03,180
+offline sharing and just less broad and
+
+231
+00:10:03,180 --> 00:10:07,180
+perhaps unobservable ways of serving
+
+232
+00:10:07,180 --> 00:10:09,939
+those other purposes while mitigating
+
+233
+00:10:09,939 --> 00:10:13,720
+the risk that would be created by
+
+234
+00:10:13,720 --> 00:10:16,120
+Internet publication Wyson this is just
+
+235
+00:10:16,120 --> 00:10:17,259
+a kind of time place and manner
+
+236
+00:10:17,259 --> 00:10:19,329
+restriction that's tolerable in the
+
+237
+00:10:19,329 --> 00:10:21,339
+study circumstances sure your honor two
+
+238
+00:10:21,339 --> 00:10:23,259
+points on that first and foremost we do
+
+239
+00:10:23,259 --> 00:10:25,420
+not submit it's it's properly analyzed
+
+240
+00:10:25,420 --> 00:10:26,709
+as a time place manner restriction
+
+241
+00:10:26,709 --> 00:10:28,300
+because it's our submission that it's a
+
+242
+00:10:28,300 --> 00:10:30,009
+facially content-based regulation of the
+
+243
+00:10:30,009 --> 00:10:32,050
+speech and as this court said precisely
+
+244
+00:10:32,050 --> 00:10:34,089
+on point in the reno case if it is a
+
+245
+00:10:34,089 --> 00:10:36,220
+content-based regulation of speech than
+
+246
+00:10:36,220 --> 00:10:38,680
+even regulating various modalities of
+
+247
+00:10:38,680 --> 00:10:40,329
+internet communication as the court said
+
+248
+00:10:40,329 --> 00:10:42,129
+is not permissible because time place
+
+249
+00:10:42,129 --> 00:10:43,749
+manner analysis is not permissible for
+
+250
+00:10:43,749 --> 00:10:46,120
+facially content-based regulations but
+
+251
+00:10:46,120 --> 00:10:47,889
+your honor brings up an important point
+
+252
+00:10:47,889 --> 00:10:49,389
+about the use of the internet here and I
+
+253
+00:10:49,389 --> 00:10:52,449
+think the one piece of communication
+
+254
+00:10:52,449 --> 00:10:54,459
+that really can't be achieved by not
+
+255
+00:10:54,459 --> 00:10:55,870
+being able to share this with all the
+
+256
+00:10:55,870 --> 00:10:58,089
+citizens of Ames who will put it to
+
+257
+00:10:58,089 --> 00:11:00,850
+lawful and valuable uses is that the
+
+258
+00:11:00,850 --> 00:11:03,550
+Internet as this court said in Reno is a
+
+259
+00:11:03,550 --> 00:11:05,529
+more powerful soapbox than ever before
+
+260
+00:11:05,529 --> 00:11:06,939
+and as this court said in packing ham
+
+261
+00:11:06,939 --> 00:11:09,429
+just just two terms ago is is the
+
+262
+00:11:09,429 --> 00:11:12,040
+probably the most important way now that
+
+263
+00:11:12,040 --> 00:11:13,689
+citizens share information with each
+
+264
+00:11:13,689 --> 00:11:16,179
+other both to speak and to listen does
+
+265
+00:11:16,179 --> 00:11:19,360
+this statute prevents you from putting
+
+266
+00:11:19,360 --> 00:11:22,059
+up a website that would say that you
+
+267
+00:11:22,059 --> 00:11:24,279
+would send this to anyone who wants it
+
+268
+00:11:24,279 --> 00:11:26,949
+and then sending it in a drive to
+
+269
+00:11:26,949 --> 00:11:29,649
+somebody this does that is that
+
+270
+00:11:29,649 --> 00:11:31,839
+prohibited Your Honor I think that's
+
+271
+00:11:31,839 --> 00:11:33,759
+probably not prohibited I think
+
+272
+00:11:33,759 --> 00:11:35,439
+certainly I don't think the state thinks
+
+273
+00:11:35,439 --> 00:11:36,490
+that would be prohibited and since
+
+274
+00:11:36,490 --> 00:11:39,370
+that's what they argue and I don't think
+
+275
+00:11:39,370 --> 00:11:40,990
+that would be making the file itself
+
+276
+00:11:40,990 --> 00:11:42,490
+available on the internet which i think
+
+277
+00:11:42,490 --> 00:11:45,759
+is what the statute requires I'm sorry
+
+278
+00:11:45,759 --> 00:11:51,339
+why wait on a website you list that you
+
+279
+00:11:51,339 --> 00:11:54,610
+have this CAD program if you want to ask
+
+280
+00:11:54,610 --> 00:11:56,949
+us first tell us who you are right and
+
+281
+00:11:56,949 --> 00:11:58,629
+your honor our submission would be if we
+
+282
+00:11:58,629 --> 00:11:59,889
+understand the statute correctly that's
+
+283
+00:11:59,889 --> 00:12:02,589
+not covered by the statute exactly so
+
+284
+00:12:02,589 --> 00:12:04,350
+why isn't that an adequate alternative
+
+285
+00:12:04,350 --> 00:12:06,570
+why it's not being barred
+
+286
+00:12:06,570 --> 00:12:08,850
+website at all well first I think it's
+
+287
+00:12:08,850 --> 00:12:10,800
+the adequate alternatives analysis would
+
+288
+00:12:10,800 --> 00:12:12,390
+only matter if this law were evaluated
+
+289
+00:12:12,390 --> 00:12:13,770
+under intermediate scrutiny rather than
+
+290
+00:12:13,770 --> 00:12:15,150
+strict scrutiny we should which we
+
+291
+00:12:15,150 --> 00:12:17,430
+submit it should not be but second I
+
+292
+00:12:17,430 --> 00:12:18,810
+think there is still something quite
+
+293
+00:12:18,810 --> 00:12:21,620
+different well this is not quite speech
+
+294
+00:12:21,620 --> 00:12:25,620
+its speech that acts so why should it be
+
+295
+00:12:25,620 --> 00:12:27,540
+subject to strict scrutiny well your
+
+296
+00:12:27,540 --> 00:12:29,010
+honor our it's our submission that it is
+
+297
+00:12:29,010 --> 00:12:30,810
+speech and it's protected speech because
+
+298
+00:12:30,810 --> 00:12:33,630
+the Act criminalized by the statute is
+
+299
+00:12:33,630 --> 00:12:36,600
+not the use of this file or directing a
+
+300
+00:12:36,600 --> 00:12:37,890
+3d printer to do anything
+
+301
+00:12:37,890 --> 00:12:39,960
+it's the publication the dissemination
+
+302
+00:12:39,960 --> 00:12:42,600
+of this design of this blueprint from
+
+303
+00:12:42,600 --> 00:12:44,700
+person to person using the Internet as a
+
+304
+00:12:44,700 --> 00:12:46,440
+medium and we submit just as this court
+
+305
+00:12:46,440 --> 00:12:48,870
+said in Bartnik II and in Sorrell it
+
+306
+00:12:48,870 --> 00:12:50,820
+strongly suggested that when a person
+
+307
+00:12:50,820 --> 00:12:52,590
+has information especially truthful
+
+308
+00:12:52,590 --> 00:12:54,120
+information and is prevented from
+
+309
+00:12:54,120 --> 00:12:55,920
+disseminating it as they see fit that's
+
+310
+00:12:55,920 --> 00:12:57,780
+a restriction on their right to speak
+
+311
+00:12:57,780 --> 00:13:00,480
+are you saying this is a purse a prior
+
+312
+00:13:00,480 --> 00:13:02,880
+restraint on speech Your Honor we don't
+
+313
+00:13:02,880 --> 00:13:04,440
+evaluate it under a prior restraint
+
+314
+00:13:04,440 --> 00:13:07,530
+approach because unlike the the use of
+
+315
+00:13:07,530 --> 00:13:09,000
+the export regulations and the defense
+
+316
+00:13:09,000 --> 00:13:11,640
+distributed case this simply imposes a
+
+317
+00:13:11,640 --> 00:13:13,800
+quite severe criminal penalty so that's
+
+318
+00:13:13,800 --> 00:13:15,720
+after the fact you're not enjoined in
+
+319
+00:13:15,720 --> 00:13:17,580
+any way there hasn't been an injunction
+
+320
+00:13:17,580 --> 00:13:19,320
+and we don't think the statute provides
+
+321
+00:13:19,320 --> 00:13:21,570
+for that no but we still think just like
+
+322
+00:13:21,570 --> 00:13:24,660
+the use of the the ITAR law in the
+
+323
+00:13:24,660 --> 00:13:25,950
+defence distributed case this is a
+
+324
+00:13:25,950 --> 00:13:27,810
+content-based regulation of speech and
+
+325
+00:13:27,810 --> 00:13:28,950
+should thus be subject to strict
+
+326
+00:13:28,950 --> 00:13:29,640
+scrutiny
+
+327
+00:13:29,640 --> 00:13:31,080
+well these only been around for a long
+
+328
+00:13:31,080 --> 00:13:33,930
+time and maybe that's you I think you
+
+329
+00:13:33,930 --> 00:13:36,510
+think that's a plus but have any courts
+
+330
+00:13:36,510 --> 00:13:38,880
+grappled with these issues Your Honor
+
+331
+00:13:38,880 --> 00:13:40,410
+the defense distributed litigation in
+
+332
+00:13:40,410 --> 00:13:41,880
+the Fifth Circuit I think did grapple
+
+333
+00:13:41,880 --> 00:13:44,100
+with it but the district court there
+
+334
+00:13:44,100 --> 00:13:45,900
+really didn't analyze the First
+
+335
+00:13:45,900 --> 00:13:47,820
+Amendment issue very much at all they
+
+336
+00:13:47,820 --> 00:13:49,710
+because it was a prior restraint and
+
+337
+00:13:49,710 --> 00:13:51,300
+because the plaintiffs there were
+
+338
+00:13:51,300 --> 00:13:53,340
+seeking an injunction the court really
+
+339
+00:13:53,340 --> 00:13:56,400
+focuses an analysis on the preliminary
+
+340
+00:13:56,400 --> 00:13:58,410
+injunction factors and really ended up
+
+341
+00:13:58,410 --> 00:13:59,970
+saying that at least in that case the
+
+342
+00:13:59,970 --> 00:14:01,880
+United States government's interest in
+
+343
+00:14:01,880 --> 00:14:04,410
+preventing the dissemination of those
+
+344
+00:14:04,410 --> 00:14:06,690
+files overseas really overcame any
+
+345
+00:14:06,690 --> 00:14:08,160
+analysis here but really it's a quite
+
+346
+00:14:08,160 --> 00:14:10,290
+different case here precisely because
+
+347
+00:14:10,290 --> 00:14:11,640
+the rights to receive this information
+
+348
+00:14:11,640 --> 00:14:14,310
+of citizens and aims are also being
+
+349
+00:14:14,310 --> 00:14:15,900
+violated by this law and this Court has
+
+350
+00:14:15,900 --> 00:14:18,150
+said consistently that the First
+
+351
+00:14:18,150 --> 00:14:19,560
+Amendment protects not just the rights
+
+352
+00:14:19,560 --> 00:14:20,310
+of speech
+
+353
+00:14:20,310 --> 00:14:22,410
+but also of listeners and this gets back
+
+354
+00:14:22,410 --> 00:14:24,420
+to justice carnies question about the
+
+355
+00:14:24,420 --> 00:14:26,880
+use of the Internet we think preventing
+
+356
+00:14:26,880 --> 00:14:27,900
+the dissemination of this information
+
+357
+00:14:27,900 --> 00:14:29,370
+over the Internet
+
+358
+00:14:29,370 --> 00:14:31,950
+really does burden heavily the Rights of
+
+359
+00:14:31,950 --> 00:14:33,660
+Persons and aims who are going to put
+
+360
+00:14:33,660 --> 00:14:35,790
+this information to lawful and valuable
+
+361
+00:14:35,790 --> 00:14:37,650
+uses let me interrupt for just a minute
+
+362
+00:14:37,650 --> 00:14:40,260
+I mean is your position following up on
+
+363
+00:14:40,260 --> 00:14:42,420
+justice Sotomayor's question is your
+
+364
+00:14:42,420 --> 00:14:44,070
+position that the fact that there is a
+
+365
+00:14:44,070 --> 00:14:47,730
+significant functional aspect to the CAD
+
+366
+00:14:47,730 --> 00:14:50,400
+files that are downloadable albeit with
+
+367
+00:14:50,400 --> 00:14:52,440
+additional expertise and action by the
+
+368
+00:14:52,440 --> 00:14:54,990
+receiver is it your position that has no
+
+369
+00:14:54,990 --> 00:14:56,730
+effect on our analysis that this is
+
+370
+00:14:56,730 --> 00:14:59,130
+purely a content-based speech regulation
+
+371
+00:14:59,130 --> 00:15:01,830
+and we should overlook the technological
+
+372
+00:15:01,830 --> 00:15:03,360
+aspects of the information that's being
+
+373
+00:15:03,360 --> 00:15:05,100
+conveyed your honor right I think that
+
+374
+00:15:05,100 --> 00:15:07,080
+is our submission and for two important
+
+375
+00:15:07,080 --> 00:15:09,000
+reasons I think it would be a mistake to
+
+376
+00:15:09,000 --> 00:15:11,130
+follow the Corley court and other courts
+
+377
+00:15:11,130 --> 00:15:13,110
+that considered speech the courts the
+
+378
+00:15:13,110 --> 00:15:15,270
+state the state addresses in their brief
+
+379
+00:15:15,270 --> 00:15:17,310
+and diminished the protection of this
+
+380
+00:15:17,310 --> 00:15:19,589
+speech exempt it from the normal
+
+381
+00:15:19,589 --> 00:15:20,850
+presumption against the
+
+382
+00:15:20,850 --> 00:15:22,260
+constitutionality of content-based
+
+383
+00:15:22,260 --> 00:15:23,610
+restrictions we think that would be the
+
+384
+00:15:23,610 --> 00:15:26,610
+case for two reasons first Reid made
+
+385
+00:15:26,610 --> 00:15:28,770
+very clear that the before we get to the
+
+386
+00:15:28,770 --> 00:15:30,839
+government's purpose in looking at
+
+387
+00:15:30,839 --> 00:15:32,130
+whether a law is content-based or
+
+388
+00:15:32,130 --> 00:15:33,960
+content neutral we first have to ask
+
+389
+00:15:33,960 --> 00:15:36,089
+whether it is facially content-based on
+
+390
+00:15:36,089 --> 00:15:37,950
+its face or not and we submit this law
+
+391
+00:15:37,950 --> 00:15:39,660
+is facially content-based on its face
+
+392
+00:15:39,660 --> 00:15:42,030
+quite clearly it only prescribes
+
+393
+00:15:42,030 --> 00:15:44,190
+publication of this information if it
+
+394
+00:15:44,190 --> 00:15:46,110
+describes a certain kind of firearm so
+
+395
+00:15:46,110 --> 00:15:47,880
+that's clearly facially content-based
+
+396
+00:15:47,880 --> 00:15:50,180
+but again regardless of its functional
+
+397
+00:15:50,180 --> 00:15:55,850
+purpose so if it were a recipe to create
+
+398
+00:15:55,850 --> 00:16:00,270
+some toxic drug it's still a recipe no
+
+399
+00:16:00,270 --> 00:16:01,950
+more than that and they should overlook
+
+400
+00:16:01,950 --> 00:16:03,839
+the other aspects and the state is
+
+401
+00:16:03,839 --> 00:16:06,780
+misguided than in your view in pointing
+
+402
+00:16:06,780 --> 00:16:10,260
+out that the ready availability of this
+
+403
+00:16:10,260 --> 00:16:14,370
+recipe could undermine its whole gun
+
+404
+00:16:14,370 --> 00:16:16,080
+regulation scheme for in terms of
+
+405
+00:16:16,080 --> 00:16:18,330
+tracking guns and so on your honor it
+
+406
+00:16:18,330 --> 00:16:20,010
+has no import at all in your view I
+
+407
+00:16:20,010 --> 00:16:21,510
+think that's right your honor because I
+
+408
+00:16:21,510 --> 00:16:22,800
+think the state's interest would be the
+
+409
+00:16:22,800 --> 00:16:24,839
+same if it wanted to go after the
+
+410
+00:16:24,839 --> 00:16:26,820
+publication of gunsmithing manuals in
+
+411
+00:16:26,820 --> 00:16:28,650
+books they would still have a fear that
+
+412
+00:16:28,650 --> 00:16:31,200
+persons would be able to as we say in
+
+413
+00:16:31,200 --> 00:16:32,730
+our brief order unfinished lower
+
+414
+00:16:32,730 --> 00:16:33,900
+receivers and all of the
+
+415
+00:16:33,900 --> 00:16:35,280
+the necessary parts from the internet
+
+416
+00:16:35,280 --> 00:16:36,690
+which they can now do completely
+
+417
+00:16:36,690 --> 00:16:38,790
+unregulated and assemble those firearms
+
+418
+00:16:38,790 --> 00:16:40,380
+I think the interest would be the same
+
+419
+00:16:40,380 --> 00:16:43,530
+does it matter that your clients version
+
+420
+00:16:43,530 --> 00:16:46,590
+is not a fully functional version that
+
+421
+00:16:46,590 --> 00:16:50,160
+it requires some the end-user to have
+
+422
+00:16:50,160 --> 00:16:52,560
+the right software to download it
+
+423
+00:16:52,560 --> 00:16:54,900
+properly I think it matters to the
+
+424
+00:16:54,900 --> 00:16:56,460
+analysis of whether or not this is
+
+425
+00:16:56,460 --> 00:16:58,020
+speech that's itself integral to
+
+426
+00:16:58,020 --> 00:16:59,430
+criminal conduct
+
+427
+00:16:59,430 --> 00:17:02,790
+perhaps if this firearm if this was
+
+428
+00:17:02,790 --> 00:17:04,859
+essentially equivalent to the
+
+429
+00:17:04,859 --> 00:17:06,660
+distribution of the firearm itself if
+
+430
+00:17:06,660 --> 00:17:08,400
+there really was no difference and no
+
+431
+00:17:08,400 --> 00:17:10,319
+distance between the act of uploading
+
+432
+00:17:10,319 --> 00:17:12,060
+this file to the internet and the and
+
+433
+00:17:12,060 --> 00:17:13,410
+then the downloader having a working
+
+434
+00:17:13,410 --> 00:17:15,780
+firearm in their hand perhaps we would
+
+435
+00:17:15,780 --> 00:17:17,010
+say that it is essentially the
+
+436
+00:17:17,010 --> 00:17:18,720
+distribution of a firearm there is a
+
+437
+00:17:18,720 --> 00:17:21,990
+difference because doesn't themes have a
+
+438
+00:17:21,990 --> 00:17:23,849
+law that you have to register any
+
+439
+00:17:23,849 --> 00:17:27,359
+firearm that you possess Your Honor I'm
+
+440
+00:17:27,359 --> 00:17:29,910
+not aware of that law if that law exists
+
+441
+00:17:29,910 --> 00:17:32,040
+I do not believe it does i understanding
+
+442
+00:17:32,040 --> 00:17:33,870
+is in a names just like under federal
+
+443
+00:17:33,870 --> 00:17:36,150
+law if one manufactures a firearm for
+
+444
+00:17:36,150 --> 00:17:37,950
+home use only then it does not need to
+
+445
+00:17:37,950 --> 00:17:40,560
+be registered or serialized but indeed
+
+446
+00:17:40,560 --> 00:17:42,420
+it's your honor raises an important
+
+447
+00:17:42,420 --> 00:17:44,720
+point that other states have
+
+448
+00:17:44,720 --> 00:17:47,340
+requirements just like that as we say in
+
+449
+00:17:47,340 --> 00:17:48,840
+our brief at our opening brief at page
+
+450
+00:17:48,840 --> 00:17:51,360
+36 the state of California has responded
+
+451
+00:17:51,360 --> 00:17:53,700
+to the problem of potential 3d printing
+
+452
+00:17:53,700 --> 00:17:55,770
+of firearms by requiring the
+
+453
+00:17:55,770 --> 00:17:57,570
+serialization and registration of any
+
+454
+00:17:57,570 --> 00:17:59,910
+firearm plastic are not manufactured at
+
+455
+00:17:59,910 --> 00:18:01,560
+home and it's our understanding this
+
+456
+00:18:01,560 --> 00:18:02,820
+just happened recently that New Jersey
+
+457
+00:18:02,820 --> 00:18:05,280
+is about to pass a law that would outlaw
+
+458
+00:18:05,280 --> 00:18:07,170
+the 3d printing of firearms altogether
+
+459
+00:18:07,170 --> 00:18:08,970
+now it's our submission and our third
+
+460
+00:18:08,970 --> 00:18:10,710
+argument is that where other
+
+461
+00:18:10,710 --> 00:18:13,380
+jurisdictions have seen that less speech
+
+462
+00:18:13,380 --> 00:18:15,420
+restrictive alternatives are effective
+
+463
+00:18:15,420 --> 00:18:17,040
+and work that raises a strong
+
+464
+00:18:17,040 --> 00:18:18,480
+presumption as this court put it in the
+
+465
+00:18:18,480 --> 00:18:20,940
+McCullen case that the state has formed
+
+466
+00:18:20,940 --> 00:18:22,640
+scuse me how do we know that they work
+
+467
+00:18:22,640 --> 00:18:25,920
+well your honor it raises an inference
+
+468
+00:18:25,920 --> 00:18:27,570
+that they work because these files have
+
+469
+00:18:27,570 --> 00:18:29,940
+been online for five years as we say
+
+470
+00:18:29,940 --> 00:18:31,800
+since Cody Wilson first put his files on
+
+471
+00:18:31,800 --> 00:18:32,700
+the internet they've been easily
+
+472
+00:18:32,700 --> 00:18:34,980
+findable the states have really seen no
+
+473
+00:18:34,980 --> 00:18:37,860
+problems at least with single-shot
+
+474
+00:18:37,860 --> 00:18:40,260
+plastic firearms and because other
+
+475
+00:18:40,260 --> 00:18:41,700
+jurisdictions have seen that they're
+
+476
+00:18:41,700 --> 00:18:43,890
+able to to achieve their interest or at
+
+477
+00:18:43,890 --> 00:18:46,050
+least think that they will in the last
+
+478
+00:18:46,050 --> 00:18:47,530
+couple of years not by going
+
+479
+00:18:47,530 --> 00:18:49,090
+after speech as the state of aims is
+
+480
+00:18:49,090 --> 00:18:50,770
+done here so we have to wait until
+
+481
+00:18:50,770 --> 00:18:53,800
+people are murdered your I can't
+
+482
+00:18:53,800 --> 00:18:58,090
+the shooter can't be traced and there's
+
+483
+00:18:58,090 --> 00:19:02,560
+no way of detecting who the perpetrator
+
+484
+00:19:02,560 --> 00:19:05,920
+is before states can take a prophylactic
+
+485
+00:19:05,920 --> 00:19:10,510
+measure to protect themselves Your Honor
+
+486
+00:19:10,510 --> 00:19:11,920
+we don't think the state has to wait for
+
+487
+00:19:11,920 --> 00:19:13,420
+people to be murdered it's our
+
+488
+00:19:13,420 --> 00:19:14,710
+submission that where we've provided
+
+489
+00:19:14,710 --> 00:19:17,620
+many reasons why bad actors are really
+
+490
+00:19:17,620 --> 00:19:19,810
+unlikely to use 3d printing as a way to
+
+491
+00:19:19,810 --> 00:19:21,400
+circumvent the law they have other means
+
+492
+00:19:21,400 --> 00:19:23,020
+at their disposal the state has
+
+493
+00:19:23,020 --> 00:19:25,000
+especially its strict scrutiny heavy
+
+494
+00:19:25,000 --> 00:19:27,100
+burden to overcome to show that it in
+
+495
+00:19:27,100 --> 00:19:28,180
+fact that is not the case
+
+496
+00:19:28,180 --> 00:19:31,650
+thank you we ask this court reverse
+
+497
+00:19:35,100 --> 00:19:38,270
+[Music]
+
+498
+00:19:49,360 --> 00:19:52,660
+you may proceed madam Chief Justice and
+
+499
+00:19:52,660 --> 00:19:54,340
+may it please the court my name is
+
+500
+00:19:54,340 --> 00:19:56,350
+Katherine McCaffrey and on behalf of
+
+501
+00:19:56,350 --> 00:19:58,210
+petitioner Ian groves I will address the
+
+502
+00:19:58,210 --> 00:20:01,809
+Second Amendment issue 15 years ago mr.
+
+503
+00:20:01,809 --> 00:20:03,070
+groves committed a non-violent crime
+
+504
+00:20:03,070 --> 00:20:04,840
+which was classified by the state of
+
+505
+00:20:04,840 --> 00:20:06,700
+aims as a misdemeanor and for which he
+
+506
+00:20:06,700 --> 00:20:09,700
+received no jail time today aim seeks to
+
+507
+00:20:09,700 --> 00:20:11,290
+enforce a statute that would prevent him
+
+508
+00:20:11,290 --> 00:20:13,330
+from possessing any type of firearm for
+
+509
+00:20:13,330 --> 00:20:15,820
+any purpose for the rest of his life the
+
+510
+00:20:15,820 --> 00:20:17,440
+statute is unconstitutional as applied
+
+511
+00:20:17,440 --> 00:20:20,440
+to mr. groves for two reasons first it
+
+512
+00:20:20,440 --> 00:20:22,630
+is a complete and permanent deprivation
+
+513
+00:20:22,630 --> 00:20:24,220
+of his fundamental right to bear arms
+
+514
+00:20:24,220 --> 00:20:26,020
+and those should be subject to per se
+
+515
+00:20:26,020 --> 00:20:28,809
+invalidation second at the very least
+
+516
+00:20:28,809 --> 00:20:31,090
+the state cannot justify the burden at
+
+517
+00:20:31,090 --> 00:20:34,210
+this ban imposes can I back you up a
+
+518
+00:20:34,210 --> 00:20:38,919
+moment there are only two states left
+
+519
+00:20:38,919 --> 00:20:42,880
+maybe just one that banned felons from
+
+520
+00:20:42,880 --> 00:20:46,929
+ever voting and we've upheld those bans
+
+521
+00:20:46,929 --> 00:20:51,040
+as the prerogative of the states why is
+
+522
+00:20:51,040 --> 00:20:54,070
+it that the mere conviction of an
+
+523
+00:20:54,070 --> 00:20:57,790
+individual is not a forfeiture or waiver
+
+524
+00:20:57,790 --> 00:21:00,640
+of entitlement to certain constitutional
+
+525
+00:21:00,640 --> 00:21:03,370
+rights including this one the possession
+
+526
+00:21:03,370 --> 00:21:05,740
+of a firearm what makes this any
+
+527
+00:21:05,740 --> 00:21:08,320
+different than the fundamental right to
+
+528
+00:21:08,320 --> 00:21:13,120
+vote we permit states to ban that
+
+529
+00:21:13,120 --> 00:21:16,200
+fundamental right why shouldn't we
+
+530
+00:21:16,200 --> 00:21:20,230
+permit the government to ban the right
+
+531
+00:21:20,230 --> 00:21:23,770
+to own a firearm because your honor as
+
+532
+00:21:23,770 --> 00:21:25,630
+this court said in Heller the scope of
+
+533
+00:21:25,630 --> 00:21:27,040
+the Second Amendment is set by the
+
+534
+00:21:27,040 --> 00:21:28,750
+original public understanding of the
+
+535
+00:21:28,750 --> 00:21:30,640
+right and so we need to look to practice
+
+536
+00:21:30,640 --> 00:21:32,080
+at the time of the founding to
+
+537
+00:21:32,080 --> 00:21:34,179
+understand what the original public
+
+538
+00:21:34,179 --> 00:21:36,070
+understanding of the right was now the
+
+539
+00:21:36,070 --> 00:21:38,070
+historical evidence we have uncovered
+
+540
+00:21:38,070 --> 00:21:40,179
+indicates that the time of the founding
+
+541
+00:21:40,179 --> 00:21:42,610
+an individual convicted of a crime was
+
+542
+00:21:42,610 --> 00:21:44,260
+only stripped of their firearm rights in
+
+543
+00:21:44,260 --> 00:21:45,669
+two instances when they were
+
+544
+00:21:45,669 --> 00:21:47,559
+incarcerated or when they were sentenced
+
+545
+00:21:47,559 --> 00:21:49,600
+to a crime punishable by death in both
+
+546
+00:21:49,600 --> 00:21:51,429
+of those instances the individual also
+
+547
+00:21:51,429 --> 00:21:53,770
+lost their political rights in contrast
+
+548
+00:21:53,770 --> 00:21:55,360
+in cases where the individual did not
+
+549
+00:21:55,360 --> 00:21:56,679
+lose their political rights upon
+
+550
+00:21:56,679 --> 00:21:58,480
+conviction they did not lose their right
+
+551
+00:21:58,480 --> 00:22:00,250
+to bear arms this indicate you're
+
+552
+00:22:00,250 --> 00:22:01,090
+showing me the
+
+553
+00:22:01,090 --> 00:22:04,030
+all those laws we've upheld denying
+
+554
+00:22:04,030 --> 00:22:07,540
+convicted felons the opportunity to vote
+
+555
+00:22:07,540 --> 00:22:09,850
+while they're on probation many states
+
+556
+00:22:09,850 --> 00:22:14,170
+have that law all of the states that had
+
+557
+00:22:14,170 --> 00:22:16,870
+lifetime voting bans those are
+
+558
+00:22:16,870 --> 00:22:19,840
+unconstitutional as well no your honor
+
+559
+00:22:19,840 --> 00:22:23,490
+we limit still haven't told me why you
+
+560
+00:22:23,490 --> 00:22:25,960
+haven't amendment is more fundamental
+
+561
+00:22:25,960 --> 00:22:28,690
+than those other rights it's certainly
+
+562
+00:22:28,690 --> 00:22:30,730
+not your honor the reason we conduct the
+
+563
+00:22:30,730 --> 00:22:32,530
+Second Amendment analysis in this way is
+
+564
+00:22:32,530 --> 00:22:34,540
+because Heller has instructed us to do
+
+565
+00:22:34,540 --> 00:22:36,520
+so the Second Amendment right to bear
+
+566
+00:22:36,520 --> 00:22:38,170
+arms was the codification of a
+
+567
+00:22:38,170 --> 00:22:40,210
+pre-existing right to bear arms that
+
+568
+00:22:40,210 --> 00:22:41,500
+existed under British common law
+
+569
+00:22:41,500 --> 00:22:44,260
+starting in the year 1689 and so the
+
+570
+00:22:44,260 --> 00:22:45,760
+founding generation was not developing
+
+571
+00:22:45,760 --> 00:22:47,740
+any new right they were merely codifying
+
+572
+00:22:47,740 --> 00:22:49,960
+a right that already existed that's part
+
+573
+00:22:49,960 --> 00:22:51,490
+of why the court in Heller Alfa's I'm
+
+574
+00:22:51,490 --> 00:22:53,920
+sorry I thought our Constitution was
+
+575
+00:22:53,920 --> 00:22:57,610
+creating new rights as this courts right
+
+576
+00:22:57,610 --> 00:23:01,270
+not to quarters soldiers was not a
+
+577
+00:23:01,270 --> 00:23:05,290
+British right it was codified in our
+
+578
+00:23:05,290 --> 00:23:07,480
+Constitution because our founding
+
+579
+00:23:07,480 --> 00:23:10,360
+fathers were upset that that was
+
+580
+00:23:10,360 --> 00:23:11,520
+happening in Britain
+
+581
+00:23:11,520 --> 00:23:13,420
+my apologies are on there that's
+
+582
+00:23:13,420 --> 00:23:15,280
+certainly right the Second Amendment
+
+583
+00:23:15,280 --> 00:23:16,900
+right was not at the creation of a new
+
+584
+00:23:16,900 --> 00:23:18,760
+right but the codification of a
+
+585
+00:23:18,760 --> 00:23:20,950
+pre-existing right to bear arms and it
+
+586
+00:23:20,950 --> 00:23:22,450
+seems at the time of the founding that
+
+587
+00:23:22,450 --> 00:23:23,950
+right was limited to members of the
+
+588
+00:23:23,950 --> 00:23:26,380
+political community Ian groves as far as
+
+589
+00:23:26,380 --> 00:23:27,850
+we know remains a member of the
+
+590
+00:23:27,850 --> 00:23:29,680
+political community and that's why he
+
+591
+00:23:29,680 --> 00:23:31,240
+retains his second Amendment right to
+
+592
+00:23:31,240 --> 00:23:33,220
+vote does your argument depend at all on
+
+593
+00:23:33,220 --> 00:23:36,610
+the fact that a misdemeanor that this
+
+594
+00:23:36,610 --> 00:23:38,290
+would have been a misdemeanor and this
+
+595
+00:23:38,290 --> 00:23:40,210
+would not have been a felony at the time
+
+596
+00:23:40,210 --> 00:23:42,940
+of the founding under any historical
+
+597
+00:23:42,940 --> 00:23:45,640
+understanding of his the crime that he
+
+598
+00:23:45,640 --> 00:23:48,220
+committed just do you make that argument
+
+599
+00:23:48,220 --> 00:23:50,470
+or is that not part of your argument so
+
+600
+00:23:50,470 --> 00:23:51,820
+your honor that's certainly relevant
+
+601
+00:23:51,820 --> 00:23:52,900
+that at the time of the founding
+
+602
+00:23:52,900 --> 00:23:55,090
+individuals convicted of misdemeanors
+
+603
+00:23:55,090 --> 00:23:56,770
+were not denied political rights nor
+
+604
+00:23:56,770 --> 00:23:58,420
+were they denied the right to possess a
+
+605
+00:23:58,420 --> 00:24:00,730
+firearm however even if this court
+
+606
+00:24:00,730 --> 00:24:02,260
+chooses not to look merely at the
+
+607
+00:24:02,260 --> 00:24:04,600
+historical analysis we ask this court to
+
+608
+00:24:04,600 --> 00:24:06,400
+confine the scope of the Second
+
+609
+00:24:06,400 --> 00:24:08,350
+Amendment right to the original public
+
+610
+00:24:08,350 --> 00:24:09,760
+understanding of the political community
+
+611
+00:24:09,760 --> 00:24:12,250
+and then turn and ask today who is a
+
+612
+00:24:12,250 --> 00:24:13,840
+member of the political community
+
+613
+00:24:13,840 --> 00:24:15,549
+Ian groves remained a member excuse me
+
+614
+00:24:15,549 --> 00:24:17,710
+an individual like Ian groves remained a
+
+615
+00:24:17,710 --> 00:24:19,059
+member of the political community and
+
+616
+00:24:19,059 --> 00:24:20,650
+thus retained his right to bear arms at
+
+617
+00:24:20,650 --> 00:24:22,179
+the time of the founding and he does so
+
+618
+00:24:22,179 --> 00:24:24,250
+today so under either analysis
+
+619
+00:24:24,250 --> 00:24:25,779
+Ian groves retains the second Amendment
+
+620
+00:24:25,779 --> 00:24:29,049
+right so just does that mean that if
+
+621
+00:24:29,049 --> 00:24:31,440
+your historical analysis is correct that
+
+622
+00:24:31,440 --> 00:24:34,090
+felons should be able to recover their
+
+623
+00:24:34,090 --> 00:24:36,100
+arms when they're released from prison I
+
+624
+00:24:36,100 --> 00:24:38,799
+think your brief pointed out that it was
+
+625
+00:24:38,799 --> 00:24:42,400
+only when incarcerated that they
+
+626
+00:24:42,400 --> 00:24:45,340
+surrendered that right so your honor
+
+627
+00:24:45,340 --> 00:24:46,990
+that's certainly a more difficult
+
+628
+00:24:46,990 --> 00:24:49,240
+question to answer what we know is that
+
+629
+00:24:49,240 --> 00:24:51,309
+at present the vast majority of states
+
+630
+00:24:51,309 --> 00:24:54,760
+limit the political rights of felons at
+
+631
+00:24:54,760 --> 00:24:56,860
+at least some time I think if we look at
+
+632
+00:24:56,860 --> 00:24:58,929
+the current political landscape the best
+
+633
+00:24:58,929 --> 00:25:01,390
+way to describe the felons position in
+
+634
+00:25:01,390 --> 00:25:04,210
+the political community is contested so
+
+635
+00:25:04,210 --> 00:25:05,919
+that individual may regain their right
+
+636
+00:25:05,919 --> 00:25:07,659
+to bear arms to say so conclusively
+
+637
+00:25:07,659 --> 00:25:08,679
+would require a little bit more
+
+638
+00:25:08,679 --> 00:25:10,659
+historical analysis do we need to look
+
+639
+00:25:10,659 --> 00:25:12,610
+at the political community definition in
+
+640
+00:25:12,610 --> 00:25:13,929
+each of the states that justice
+
+641
+00:25:13,929 --> 00:25:17,080
+Sotomayor was referring to as to whether
+
+642
+00:25:17,080 --> 00:25:19,450
+who when felons have rights to vote when
+
+643
+00:25:19,450 --> 00:25:22,419
+they don't so Your Honor we've put forth
+
+644
+00:25:22,419 --> 00:25:24,100
+the theory that the political community
+
+645
+00:25:24,100 --> 00:25:25,630
+is determined on a national scale
+
+646
+00:25:25,630 --> 00:25:27,190
+because we're not talking about any
+
+647
+00:25:27,190 --> 00:25:28,720
+specific case excuse me
+
+648
+00:25:28,720 --> 00:25:30,820
+State Constitution here we're asking
+
+649
+00:25:30,820 --> 00:25:32,679
+about the Federal Constitution which is
+
+650
+00:25:32,679 --> 00:25:34,510
+at one point in time you're asking us to
+
+651
+00:25:34,510 --> 00:25:37,779
+look at the founding fathers but should
+
+652
+00:25:37,779 --> 00:25:41,320
+we look at it in the time of the Wild
+
+653
+00:25:41,320 --> 00:25:45,340
+West should we look at it today should
+
+654
+00:25:45,340 --> 00:25:47,590
+we look at it 50 years ago how do we
+
+655
+00:25:47,590 --> 00:25:51,520
+decide what moment that national
+
+656
+00:25:51,520 --> 00:25:54,789
+consensus was founded so your honor
+
+657
+00:25:54,789 --> 00:25:56,380
+there's actually two moving parts to
+
+658
+00:25:56,380 --> 00:25:59,169
+this analysis if I may explain first is
+
+659
+00:25:59,169 --> 00:26:01,179
+where we set the rule for what is the
+
+660
+00:26:01,179 --> 00:26:04,419
+scope of the political community now the
+
+661
+00:26:04,419 --> 00:26:05,860
+court in Heller tells us that we need to
+
+662
+00:26:05,860 --> 00:26:06,940
+look to the original public
+
+663
+00:26:06,940 --> 00:26:08,740
+understanding of the rule the Heller
+
+664
+00:26:08,740 --> 00:26:10,750
+Court limited its analysis through the
+
+665
+00:26:10,750 --> 00:26:13,270
+end of the 1800s and so we encourage the
+
+666
+00:26:13,270 --> 00:26:14,590
+court to do the same today
+
+667
+00:26:14,590 --> 00:26:16,480
+once the scope of the Second Amendment
+
+668
+00:26:16,480 --> 00:26:18,610
+has been set the rule has been set as
+
+669
+00:26:18,610 --> 00:26:21,070
+the political community we then turn to
+
+670
+00:26:21,070 --> 00:26:23,530
+today today who is a member of that
+
+671
+00:26:23,530 --> 00:26:25,600
+political community so we're asking this
+
+672
+00:26:25,600 --> 00:26:26,880
+court to determine the now
+
+673
+00:26:26,880 --> 00:26:29,130
+no consensus today as to who retains
+
+674
+00:26:29,130 --> 00:26:31,110
+political rights you mean it have to do
+
+675
+00:26:31,110 --> 00:26:34,010
+that can you win just on a straight-up
+
+676
+00:26:34,010 --> 00:26:37,920
+analysis that your as-applied challenges
+
+677
+00:26:37,920 --> 00:26:42,750
+is good for a misdemeanor and no one's
+
+678
+00:26:42,750 --> 00:26:45,480
+ever made that yet it's been held by
+
+679
+00:26:45,480 --> 00:26:48,780
+heard by our court on that point can we
+
+680
+00:26:48,780 --> 00:26:51,180
+just do we have to don't do this
+
+681
+00:26:51,180 --> 00:26:53,790
+originalist analysis in order to rule
+
+682
+00:26:53,790 --> 00:26:56,670
+for your client so it's true your honor
+
+683
+00:26:56,670 --> 00:26:58,590
+that no excuse me none of the lower
+
+684
+00:26:58,590 --> 00:27:00,150
+courts besides the Third Circuit in
+
+685
+00:27:00,150 --> 00:27:02,040
+bender up has considered a case like
+
+686
+00:27:02,040 --> 00:27:04,050
+this where the individual at issue was a
+
+687
+00:27:04,050 --> 00:27:04,740
+misdemeanant
+
+688
+00:27:04,740 --> 00:27:06,210
+and in the bender up case the court
+
+689
+00:27:06,210 --> 00:27:07,760
+found that the law was unconstitutional
+
+690
+00:27:07,760 --> 00:27:11,010
+as applied to that individual this Court
+
+691
+00:27:11,010 --> 00:27:13,020
+does need to answer two questions the
+
+692
+00:27:13,020 --> 00:27:14,730
+first is whether Ian groves has the
+
+693
+00:27:14,730 --> 00:27:16,470
+right and the second is whether the
+
+694
+00:27:16,470 --> 00:27:18,630
+burden on that right is justified so to
+
+695
+00:27:18,630 --> 00:27:21,150
+determine who has the right we ask this
+
+696
+00:27:21,150 --> 00:27:22,590
+court to look to the original public
+
+697
+00:27:22,590 --> 00:27:23,880
+understanding of the Constitution that's
+
+698
+00:27:23,880 --> 00:27:26,820
+assuming we believe he was convicted of
+
+699
+00:27:26,820 --> 00:27:29,610
+a misdemeanor generally the definition
+
+700
+00:27:29,610 --> 00:27:33,300
+of felon has always been someone who can
+
+701
+00:27:33,300 --> 00:27:36,090
+be jailed for over a year and under the
+
+702
+00:27:36,090 --> 00:27:37,680
+crime he committed he could have been
+
+703
+00:27:37,680 --> 00:27:40,470
+jailed for more than two years far above
+
+704
+00:27:40,470 --> 00:27:44,840
+the minimum that most felons are
+
+705
+00:27:44,840 --> 00:27:48,150
+announced it's only the oddities of this
+
+706
+00:27:48,150 --> 00:27:52,740
+state Ames a state that makes this amis
+
+707
+00:27:52,740 --> 00:27:57,990
+misdemeanor so why shouldn't we use the
+
+708
+00:27:57,990 --> 00:28:01,170
+normal understanding of felons you're
+
+709
+00:28:01,170 --> 00:28:02,910
+asking us to use the original
+
+710
+00:28:02,910 --> 00:28:06,270
+understanding of who's a part of the
+
+711
+00:28:06,270 --> 00:28:07,680
+political community but you're not
+
+712
+00:28:07,680 --> 00:28:10,110
+asking us to do that with respect to
+
+713
+00:28:10,110 --> 00:28:12,570
+who's a felon two things your honor
+
+714
+00:28:12,570 --> 00:28:15,420
+first if this court was operating under
+
+715
+00:28:15,420 --> 00:28:17,280
+what was the definition of a felony or
+
+716
+00:28:17,280 --> 00:28:18,630
+misdemeanor at the time of the founding
+
+717
+00:28:18,630 --> 00:28:20,730
+Ian groves his crime forgery was
+
+718
+00:28:20,730 --> 00:28:21,960
+considered to be a misdemeanor at the
+
+719
+00:28:21,960 --> 00:28:24,240
+time of the founding now the reason that
+
+720
+00:28:24,240 --> 00:28:26,250
+it's important to note that Ian groves
+
+721
+00:28:26,250 --> 00:28:27,150
+is a misdemeanant
+
+722
+00:28:27,150 --> 00:28:29,010
+is because when it comes to political
+
+723
+00:28:29,010 --> 00:28:30,600
+rights the line between felons and
+
+724
+00:28:30,600 --> 00:28:32,520
+misdemeanants is actually pretty clear
+
+725
+00:28:32,520 --> 00:28:34,530
+now the vast majority of states only
+
+726
+00:28:34,530 --> 00:28:37,080
+limit political rights for felons and in
+
+727
+00:28:37,080 --> 00:28:38,700
+the states that do have misdemeanors
+
+728
+00:28:38,700 --> 00:28:40,380
+punishable by more than one year
+
+729
+00:28:40,380 --> 00:28:42,000
+that includes Ames but it also includes
+
+730
+00:28:42,000 --> 00:28:43,620
+states like South Carolina and
+
+731
+00:28:43,620 --> 00:28:46,350
+Pennsylvania in those states the states
+
+732
+00:28:46,350 --> 00:28:47,880
+only limit political rights for
+
+733
+00:28:47,880 --> 00:28:50,460
+individuals classified as felons what
+
+734
+00:28:50,460 --> 00:28:52,260
+this tells us is that the classification
+
+735
+00:28:52,260 --> 00:28:54,420
+of the offense is dispositive when it
+
+736
+00:28:54,420 --> 00:28:56,670
+comes to political rights if I could ask
+
+737
+00:28:56,670 --> 00:29:00,510
+in your briefs you describe mr. groves
+
+738
+00:29:00,510 --> 00:29:03,270
+as they never incarcerated nonviolent
+
+739
+00:29:03,270 --> 00:29:06,300
+misdemeanant our conversation right now
+
+740
+00:29:06,300 --> 00:29:07,740
+has been focusing on whether he's a
+
+741
+00:29:07,740 --> 00:29:08,490
+misdemeanant
+
+742
+00:29:08,490 --> 00:29:10,980
+or a felon but I wondered whether how
+
+743
+00:29:10,980 --> 00:29:13,590
+the other two aspects of his prior
+
+744
+00:29:13,590 --> 00:29:16,770
+convictions play into the rule that you
+
+745
+00:29:16,770 --> 00:29:18,830
+would propose this is an as-applied
+
+746
+00:29:18,830 --> 00:29:23,870
+challenge and you know you have a
+
+747
+00:29:23,870 --> 00:29:27,120
+persuasive argument that he poses very
+
+748
+00:29:27,120 --> 00:29:29,610
+little risk but I wondered you know we
+
+749
+00:29:29,610 --> 00:29:31,550
+have struggled in defining what is a
+
+750
+00:29:31,550 --> 00:29:33,990
+violent crime or a non-violent crime
+
+751
+00:29:33,990 --> 00:29:35,850
+what might be just looking at elements
+
+752
+00:29:35,850 --> 00:29:37,950
+is purse-snatching for example a violent
+
+753
+00:29:37,950 --> 00:29:40,560
+crime that would disqualify someone and
+
+754
+00:29:40,560 --> 00:29:42,240
+I wonder what rule you would propose
+
+755
+00:29:42,240 --> 00:29:45,690
+that we be adopting if we were to take
+
+756
+00:29:45,690 --> 00:29:48,870
+your general position with regard to mr.
+
+757
+00:29:48,870 --> 00:29:50,910
+groves sure your honor
+
+758
+00:29:50,910 --> 00:29:53,400
+so first just to clarify the reason that
+
+759
+00:29:53,400 --> 00:29:55,260
+we discussed the relative dangerousness
+
+760
+00:29:55,260 --> 00:29:57,330
+of the category of individuals never
+
+761
+00:29:57,330 --> 00:29:59,670
+incarcerated nonviolent misdemeanants is
+
+762
+00:29:59,670 --> 00:30:00,810
+because we didn't want to focus our
+
+763
+00:30:00,810 --> 00:30:03,000
+analysis specifically on mr. groves
+
+764
+00:30:03,000 --> 00:30:04,620
+because we didn't want to convey to this
+
+765
+00:30:04,620 --> 00:30:06,300
+court that we were asking for perfect
+
+766
+00:30:06,300 --> 00:30:08,100
+tailoring that's concededly not the
+
+767
+00:30:08,100 --> 00:30:10,200
+analysis here the state must only show
+
+768
+00:30:10,200 --> 00:30:11,160
+narrow tailoring
+
+769
+00:30:11,160 --> 00:30:14,310
+however we put forth that because never
+
+770
+00:30:14,310 --> 00:30:16,260
+incarcerated nonviolent misdemeanants as
+
+771
+00:30:16,260 --> 00:30:18,570
+a class pose no heightened risk of gun
+
+772
+00:30:18,570 --> 00:30:20,160
+violence or they certainly don't pose a
+
+773
+00:30:20,160 --> 00:30:22,230
+heightened risk for life that shows that
+
+774
+00:30:22,230 --> 00:30:24,660
+this law is not just slightly over broad
+
+775
+00:30:24,660 --> 00:30:26,340
+but that it's dramatically over broad
+
+776
+00:30:26,340 --> 00:30:28,740
+but I'm sorry what difference does it
+
+777
+00:30:28,740 --> 00:30:32,370
+make whether it's a felon violent or
+
+778
+00:30:32,370 --> 00:30:35,660
+nonviolent in your theory of this case
+
+779
+00:30:35,660 --> 00:30:38,490
+your theory of the cases we go back to
+
+780
+00:30:38,490 --> 00:30:42,450
+original intent and you tell us that
+
+781
+00:30:42,450 --> 00:30:45,060
+back then the only people who were
+
+782
+00:30:45,060 --> 00:30:48,510
+deprived of a gun were felons in jail or
+
+783
+00:30:48,510 --> 00:30:51,260
+people who were subject to capital death
+
+784
+00:30:51,260 --> 00:30:56,540
+so is your theory founded on him being a
+
+785
+00:30:56,540 --> 00:31:00,660
+non-violent miscreant I don't quite
+
+786
+00:31:00,660 --> 00:31:02,640
+understand what's the purpose
+
+787
+00:31:02,640 --> 00:31:04,440
+where are you asking us to draw the line
+
+788
+00:31:04,440 --> 00:31:07,410
+sure your honor so this analysis
+
+789
+00:31:07,410 --> 00:31:09,690
+involves a two separate questions the
+
+790
+00:31:09,690 --> 00:31:11,100
+first is whether the individual
+
+791
+00:31:11,100 --> 00:31:13,170
+possesses a right to bear arms that
+
+792
+00:31:13,170 --> 00:31:14,340
+depends on if they remember the
+
+793
+00:31:14,340 --> 00:31:16,140
+political community and so there is
+
+794
+00:31:16,140 --> 00:31:17,850
+where the classification is misdemeanor
+
+795
+00:31:17,850 --> 00:31:20,490
+or felony is dispositive now when we get
+
+796
+00:31:20,490 --> 00:31:22,230
+to the second step of the analysis so
+
+797
+00:31:22,230 --> 00:31:25,140
+you think three felons of any kind are
+
+798
+00:31:25,140 --> 00:31:28,230
+not part of the political community they
+
+799
+00:31:28,230 --> 00:31:30,240
+may not be your honor as I was
+
+800
+00:31:30,240 --> 00:31:32,280
+discussing with justice Carney and that
+
+801
+00:31:32,280 --> 00:31:33,900
+question is a little bit more difficult
+
+802
+00:31:33,900 --> 00:31:36,090
+to answer because the vast majority of
+
+803
+00:31:36,090 --> 00:31:38,730
+states 48 to be exact a strip political
+
+804
+00:31:38,730 --> 00:31:40,710
+rights from felons though many do give
+
+805
+00:31:40,710 --> 00:31:42,300
+these political rights back so it's a
+
+806
+00:31:42,300 --> 00:31:43,680
+little bit more difficult of a question
+
+807
+00:31:43,680 --> 00:31:45,360
+to answer than in the case of an
+
+808
+00:31:45,360 --> 00:31:47,280
+individual classified as a misdemeanant
+
+809
+00:31:47,280 --> 00:31:49,290
+the vast majority of states do not strip
+
+810
+00:31:49,290 --> 00:31:50,520
+any political rights from these
+
+811
+00:31:50,520 --> 00:31:53,640
+individuals but there's two questions
+
+812
+00:31:53,640 --> 00:31:55,110
+before this court and I'd like to make
+
+813
+00:31:55,110 --> 00:31:57,150
+that clear the first is the historical
+
+814
+00:31:57,150 --> 00:31:58,950
+question which answers whether Ian Gross
+
+815
+00:31:58,950 --> 00:32:00,840
+has a second Amendment right but the
+
+816
+00:32:00,840 --> 00:32:02,250
+second is the question of whether the
+
+817
+00:32:02,250 --> 00:32:03,750
+burden imposed by that right is
+
+818
+00:32:03,750 --> 00:32:07,650
+justified now to begin because this law
+
+819
+00:32:07,650 --> 00:32:10,050
+is a permanent deprivation of the right
+
+820
+00:32:10,050 --> 00:32:12,210
+to bear arms we argue that it should be
+
+821
+00:32:12,210 --> 00:32:14,970
+held to be per se unconstitutional but
+
+822
+00:32:14,970 --> 00:32:16,290
+even if this court were to proceed
+
+823
+00:32:16,290 --> 00:32:18,420
+through a scrutiny analysis the law
+
+824
+00:32:18,420 --> 00:32:20,460
+still can't pass scrutiny because the
+
+825
+00:32:20,460 --> 00:32:22,410
+state has failed to put forth sufficient
+
+826
+00:32:22,410 --> 00:32:24,840
+evidence to indicate that this that
+
+827
+00:32:24,840 --> 00:32:26,520
+excuse me that depriving an individual
+
+828
+00:32:26,520 --> 00:32:28,590
+like Ian groves is necessary in any way
+
+829
+00:32:28,590 --> 00:32:30,690
+to prevent gun violence now the state
+
+830
+00:32:30,690 --> 00:32:32,490
+relies on two studies to come to its
+
+831
+00:32:32,490 --> 00:32:34,500
+conclusion but we urge his court not to
+
+832
+00:32:34,500 --> 00:32:36,120
+rely on those two studies too heavily
+
+833
+00:32:36,120 --> 00:32:38,310
+that's because these studies focus their
+
+834
+00:32:38,310 --> 00:32:40,530
+analysis mainly on prisoners within the
+
+835
+00:32:40,530 --> 00:32:42,630
+first few years of their convictions but
+
+836
+00:32:42,630 --> 00:32:44,550
+in contrast Ian groves was never
+
+837
+00:32:44,550 --> 00:32:46,320
+sentenced to incarceration and his crime
+
+838
+00:32:46,320 --> 00:32:48,570
+was over 15 years ago so those groups
+
+839
+00:32:48,570 --> 00:32:51,210
+are just too different and even if in
+
+840
+00:32:51,210 --> 00:32:53,130
+the abstract it were reasonable for the
+
+841
+00:32:53,130 --> 00:32:54,990
+court to come to excuse me for the state
+
+842
+00:32:54,990 --> 00:32:56,670
+to come to the conclusion that it did in
+
+843
+00:32:56,670 --> 00:32:58,290
+light of the evidence that we've put
+
+844
+00:32:58,290 --> 00:33:00,030
+forth that suggests an individual like
+
+845
+00:33:00,030 --> 00:33:01,980
+Ian groves never poses an increase
+
+846
+00:33:01,980 --> 00:33:03,180
+excuse me
+
+847
+00:33:03,180 --> 00:33:04,300
+never poses an increase
+
+848
+00:33:04,300 --> 00:33:05,950
+risk of violence or certainly doesn't
+
+849
+00:33:05,950 --> 00:33:07,720
+after a term of seven to ten years we
+
+850
+00:33:07,720 --> 00:33:09,640
+argued that the state's conclusion is
+
+851
+00:33:09,640 --> 00:33:11,350
+just not a reasonable conclusion drawed
+
+852
+00:33:11,350 --> 00:33:13,330
+from such so what a reasonable time
+
+853
+00:33:13,330 --> 00:33:18,250
+limit to bar him under your theory here
+
+854
+00:33:18,250 --> 00:33:20,020
+you make a great deal of the fact that
+
+855
+00:33:20,020 --> 00:33:23,320
+it was a non-violent conviction and he
+
+856
+00:33:23,320 --> 00:33:25,420
+has not been a reservist for fifteen
+
+857
+00:33:25,420 --> 00:33:28,390
+years says five enough it's chann enough
+
+858
+00:33:28,390 --> 00:33:32,680
+is what's enough so based on the
+
+859
+00:33:32,680 --> 00:33:35,920
+consensus of recent social science it
+
+860
+00:33:35,920 --> 00:33:37,840
+seems to be that after a period of ten
+
+861
+00:33:37,840 --> 00:33:40,270
+years the relative risk of an offender a
+
+862
+00:33:40,270 --> 00:33:42,550
+non-violent offender decreases to the
+
+863
+00:33:42,550 --> 00:33:44,470
+point that it meets the relative risk of
+
+864
+00:33:44,470 --> 00:33:46,270
+a non offender and essentially the
+
+865
+00:33:46,270 --> 00:33:48,400
+individual poses no risk at all now this
+
+866
+00:33:48,400 --> 00:33:51,640
+is this is also we can also find support
+
+867
+00:33:51,640 --> 00:33:53,500
+for this in the practices of the US
+
+868
+00:33:53,500 --> 00:33:55,300
+Sentencing Commission which holds that
+
+869
+00:33:55,300 --> 00:33:57,520
+after ten years an individual's prior
+
+870
+00:33:57,520 --> 00:33:59,230
+conviction should not be considered in
+
+871
+00:33:59,230 --> 00:34:01,420
+calculating a criminal history so are
+
+872
+00:34:01,420 --> 00:34:04,030
+you asking us to use a ten year period
+
+873
+00:34:04,030 --> 00:34:06,940
+to bar misdemeanors and people who
+
+874
+00:34:06,940 --> 00:34:09,550
+commit misdemeanors from having firearms
+
+875
+00:34:09,550 --> 00:34:11,380
+is that your is that what you're
+
+876
+00:34:11,380 --> 00:34:13,929
+advocating here today at the very least
+
+877
+00:34:13,929 --> 00:34:15,790
+your honor we also put forth evidence I
+
+878
+00:34:15,790 --> 00:34:17,230
+thought you said it was per se
+
+879
+00:34:17,230 --> 00:34:21,150
+unconstitutional yes your so which is it
+
+880
+00:34:21,150 --> 00:34:23,980
+your honor a lifetime permanent and
+
+881
+00:34:23,980 --> 00:34:25,960
+complete deprivation of the fundamental
+
+882
+00:34:25,960 --> 00:34:27,550
+right to bear arms is per se
+
+883
+00:34:27,550 --> 00:34:30,280
+unconstitutional a firearms restriction
+
+884
+00:34:30,280 --> 00:34:32,380
+that is limited in time or limited in
+
+885
+00:34:32,380 --> 00:34:34,810
+scope in some way may be constitutional
+
+886
+00:34:34,810 --> 00:34:36,550
+if the state can show that it is
+
+887
+00:34:36,550 --> 00:34:38,620
+justified now it's our contention that
+
+888
+00:34:38,620 --> 00:34:40,570
+an individual like Ian groves never
+
+889
+00:34:40,570 --> 00:34:42,130
+posed a heightened risk of gun violence
+
+890
+00:34:42,130 --> 00:34:44,440
+and so if I love showing does the state
+
+891
+00:34:44,440 --> 00:34:47,440
+have to make so your honor that depends
+
+892
+00:34:47,440 --> 00:34:49,060
+on the level of scrutiny that this court
+
+893
+00:34:49,060 --> 00:34:51,280
+chooses to analyze this law under we get
+
+894
+00:34:51,280 --> 00:34:52,929
+districts if we're strict scrutiny
+
+895
+00:34:52,929 --> 00:34:55,000
+because we're out of her save and what
+
+896
+00:34:55,000 --> 00:34:57,670
+level of showing so what the state needs
+
+897
+00:34:57,670 --> 00:34:59,110
+to show is that it was a reasonable
+
+898
+00:34:59,110 --> 00:35:01,390
+inference based on substantial evidence
+
+899
+00:35:01,390 --> 00:35:03,400
+the problem with the state's evidence is
+
+900
+00:35:03,400 --> 00:35:04,960
+that there's simply not enough for there
+
+901
+00:35:04,960 --> 00:35:06,550
+to be under any definition of the term
+
+902
+00:35:06,550 --> 00:35:08,710
+substantial evidence to indicate an
+
+903
+00:35:08,710 --> 00:35:10,090
+individual like Ian groves
+
+904
+00:35:10,090 --> 00:35:12,070
+poses a heightened risk that's why the
+
+905
+00:35:12,070 --> 00:35:14,290
+state can't succeed under either strict
+
+906
+00:35:14,290 --> 00:35:17,200
+or intermediate scrutiny but I like it's
+
+907
+00:35:17,200 --> 00:35:17,680
+not
+
+908
+00:35:17,680 --> 00:35:20,710
+that people who have not been recidivist
+
+909
+00:35:20,710 --> 00:35:26,380
+for 15 years that all of them fail to
+
+910
+00:35:26,380 --> 00:35:28,750
+commit a crime it's just that the
+
+911
+00:35:28,750 --> 00:35:32,740
+numbers are small so why should we upset
+
+912
+00:35:32,740 --> 00:35:35,770
+the state's judgment that even a small
+
+913
+00:35:35,770 --> 00:35:40,589
+number of potential recidivist is enough
+
+914
+00:35:40,589 --> 00:35:44,950
+to justify a lifetime ban because your
+
+915
+00:35:44,950 --> 00:35:46,540
+honor the second Amendment right to bear
+
+916
+00:35:46,540 --> 00:35:48,099
+arms as this Court has said is a
+
+917
+00:35:48,099 --> 00:35:50,980
+fundamental right and and no amount of
+
+918
+00:35:50,980 --> 00:35:53,410
+justification put forth by the state can
+
+919
+00:35:53,410 --> 00:35:55,210
+justify the total stripping of that
+
+920
+00:35:55,210 --> 00:35:56,920
+fundamental right that's why we ask that
+
+921
+00:35:56,920 --> 00:36:06,210
+this court reverse thank you respondents
+
+922
+00:36:13,319 --> 00:36:15,209
+thank you madam Chief Justice and may it
+
+923
+00:36:15,209 --> 00:36:17,459
+please the court my name is Marlon
+
+924
+00:36:17,459 --> 00:36:19,140
+golden and I represent the state of Ames
+
+925
+00:36:19,140 --> 00:36:21,420
+I will show that the Ames felon in
+
+926
+00:36:21,420 --> 00:36:23,009
+possession law does not offend the
+
+927
+00:36:23,009 --> 00:36:23,789
+Second Amendment
+
+928
+00:36:23,789 --> 00:36:26,549
+my co-counsel Nick Carr will show the 3d
+
+929
+00:36:26,549 --> 00:36:28,619
+printed gun violence prevention act does
+
+930
+00:36:28,619 --> 00:36:30,930
+not violate the First Amendment we ask
+
+931
+00:36:30,930 --> 00:36:33,779
+the court to affirm on both counts the
+
+932
+00:36:33,779 --> 00:36:35,489
+right to bear arms does not extend a
+
+933
+00:36:35,489 --> 00:36:37,619
+person's our society has long thought
+
+934
+00:36:37,619 --> 00:36:39,690
+too dangerous to carry lethal weapons
+
+935
+00:36:39,690 --> 00:36:41,819
+when he committed his crimes
+
+936
+00:36:41,819 --> 00:36:43,440
+petitioner forfeited the Second
+
+937
+00:36:43,440 --> 00:36:46,019
+Amendment guarantee and even if the
+
+938
+00:36:46,019 --> 00:36:47,609
+Second Amendment protects a right to
+
+939
+00:36:47,609 --> 00:36:50,190
+bear arms the petitioner enjoys he has
+
+940
+00:36:50,190 --> 00:36:51,509
+not shown that the law as
+
+941
+00:36:51,509 --> 00:36:53,969
+unconstitutional as applied to him at
+
+942
+00:36:53,969 --> 00:36:55,799
+the founding would have been found too
+
+943
+00:36:55,799 --> 00:36:58,650
+dangerous we believe so justice Elrod
+
+944
+00:36:58,650 --> 00:37:01,289
+under what theory he would be considered
+
+945
+00:37:01,289 --> 00:37:03,180
+an unvirtuous citizen at the founding
+
+946
+00:37:03,180 --> 00:37:04,259
+your honor because he would have
+
+947
+00:37:04,259 --> 00:37:06,900
+committed crimes that represent severe
+
+948
+00:37:06,900 --> 00:37:08,880
+maladjustment and disrespect for the law
+
+949
+00:37:08,880 --> 00:37:13,049
+forgery would have been considered it
+
+950
+00:37:13,049 --> 00:37:15,390
+would have stripped him is under the
+
+951
+00:37:15,390 --> 00:37:16,769
+founding you have some authority for
+
+952
+00:37:16,769 --> 00:37:19,559
+that just justice or odd that's correct
+
+953
+00:37:19,559 --> 00:37:22,109
+we believe that the founding level
+
+954
+00:37:22,109 --> 00:37:24,749
+sources show that the number of felonies
+
+955
+00:37:24,749 --> 00:37:27,509
+even before the felonies had made their
+
+956
+00:37:27,509 --> 00:37:29,400
+way from English common law to the
+
+957
+00:37:29,400 --> 00:37:32,009
+United States had already balloon so we
+
+958
+00:37:32,009 --> 00:37:34,529
+have information that shows that even
+
+959
+00:37:34,529 --> 00:37:36,539
+Blackstone and his commentaries in law
+
+960
+00:37:36,539 --> 00:37:37,949
+of England said that there were at least
+
+961
+00:37:37,949 --> 00:37:40,380
+160 felonies at that time we believe I
+
+962
+00:37:40,380 --> 00:37:43,789
+think thought your adversary said that
+
+963
+00:37:43,789 --> 00:37:46,440
+forgery was a misdemeanor at the
+
+964
+00:37:46,440 --> 00:37:49,319
+founding well chief justice Sotomayor
+
+965
+00:37:49,319 --> 00:37:51,329
+even if that were so that does not
+
+966
+00:37:51,329 --> 00:37:53,339
+resolve this case the traditional
+
+967
+00:37:53,339 --> 00:37:55,259
+definition of a felony is someone who is
+
+968
+00:37:55,259 --> 00:37:57,299
+punishable by a year imprisonment or
+
+969
+00:37:57,299 --> 00:37:59,819
+more and which we look to the tradition
+
+970
+00:37:59,819 --> 00:38:01,529
+that the understanding at the founding
+
+971
+00:38:01,529 --> 00:38:04,259
+she's arguing founding what do you
+
+972
+00:38:04,259 --> 00:38:06,449
+arguing we argue that we argue that the
+
+973
+00:38:06,449 --> 00:38:09,420
+traditional restrictions on felons that
+
+974
+00:38:09,420 --> 00:38:11,009
+is those who are punishable by at least
+
+975
+00:38:11,009 --> 00:38:13,349
+a year in prison or what just additional
+
+976
+00:38:13,349 --> 00:38:16,529
+since when what we believe at Lisa's
+
+977
+00:38:16,529 --> 00:38:17,969
+traditional as this court noted in
+
+978
+00:38:17,969 --> 00:38:18,479
+Heller
+
+979
+00:38:18,479 --> 00:38:20,670
+so in Heller this court said that
+
+980
+00:38:20,670 --> 00:38:23,430
+long-standing prohibitions not founding
+
+981
+00:38:23,430 --> 00:38:24,869
+era Probus so you talk about the
+
+982
+00:38:24,869 --> 00:38:25,730
+nineteen there
+
+983
+00:38:25,730 --> 00:38:28,490
+is that what you're talking about at
+
+984
+00:38:28,490 --> 00:38:30,290
+least dating back to the interwar period
+
+985
+00:38:30,290 --> 00:38:32,450
+justice Elrod but we believe history is
+
+986
+00:38:32,450 --> 00:38:34,690
+instructive here as well for example the
+
+987
+00:38:34,690 --> 00:38:37,670
+Pennsylvania Minority Report the dissent
+
+988
+00:38:37,670 --> 00:38:39,110
+of minority at this Pennsylvania State
+
+989
+00:38:39,110 --> 00:38:41,420
+ratification convention showed that the
+
+990
+00:38:41,420 --> 00:38:43,520
+right to bear arms could be restricted
+
+991
+00:38:43,520 --> 00:38:46,010
+for crimes committed or for risk of
+
+992
+00:38:46,010 --> 00:38:48,080
+public and injury and we believe that
+
+993
+00:38:48,080 --> 00:38:50,270
+understanding is what's informative here
+
+994
+00:38:50,270 --> 00:38:52,640
+today so it's true that the authors of
+
+995
+00:38:52,640 --> 00:38:55,250
+one state what other documents can you
+
+996
+00:38:55,250 --> 00:38:58,190
+point to to show us how other states
+
+997
+00:38:58,190 --> 00:39:00,920
+responded Chief Justice Emily or that
+
+998
+00:39:00,920 --> 00:39:02,990
+was one state it was shared however by
+
+999
+00:39:02,990 --> 00:39:05,720
+the drafters in Massachusetts in New
+
+1000
+00:39:05,720 --> 00:39:07,790
+Hampshire all of those states were
+
+1001
+00:39:07,790 --> 00:39:09,950
+penned by anti-federalists who
+
+1002
+00:39:09,950 --> 00:39:11,300
+eventually want out with the
+
+1003
+00:39:11,300 --> 00:39:12,560
+ratification of the Bill of Rights
+
+1004
+00:39:12,560 --> 00:39:15,020
+itself so it's their understanding of
+
+1005
+00:39:15,020 --> 00:39:16,820
+the Second Amendment that the right is
+
+1006
+00:39:16,820 --> 00:39:19,100
+not unlimited that Heller identified it
+
+1007
+00:39:19,100 --> 00:39:22,040
+said that the scope of the right did not
+
+1008
+00:39:22,040 --> 00:39:23,720
+extend to those long-standing
+
+1009
+00:39:23,720 --> 00:39:26,510
+prohibitions that were understood to be
+
+1010
+00:39:26,510 --> 00:39:28,400
+outside the scope of the right entirely
+
+1011
+00:39:28,400 --> 00:39:30,500
+now Heller tells us that these are
+
+1012
+00:39:30,500 --> 00:39:32,570
+exceptions to the Second Amendment right
+
+1013
+00:39:32,570 --> 00:39:35,240
+well Hilary knowledge is a presumption
+
+1014
+00:39:35,240 --> 00:39:37,940
+but doesn't really articulate at any
+
+1015
+00:39:37,940 --> 00:39:41,380
+great length um as for felonies and for
+
+1016
+00:39:41,380 --> 00:39:43,430
+people with mental illness and
+
+1017
+00:39:43,430 --> 00:39:44,750
+acknowledges that the list is not
+
+1018
+00:39:44,750 --> 00:39:47,120
+exhaustive but it also recognizes a
+
+1019
+00:39:47,120 --> 00:39:49,520
+fundamental right to bear arms which
+
+1020
+00:39:49,520 --> 00:39:51,290
+hadn't been articulated in that way
+
+1021
+00:39:51,290 --> 00:39:53,500
+before and I wonder how the state can
+
+1022
+00:39:53,500 --> 00:39:56,690
+justify under intermediate scrutiny say
+
+1023
+00:39:56,690 --> 00:40:01,640
+a lifetime ban where the right is seen
+
+1024
+00:40:01,640 --> 00:40:04,490
+as necessary to for people to defend
+
+1025
+00:40:04,490 --> 00:40:07,820
+themselves why should someone who has
+
+1026
+00:40:07,820 --> 00:40:10,970
+been convicted of such a an offense as
+
+1027
+00:40:10,970 --> 00:40:14,410
+this that didn't even merit jail time he
+
+1028
+00:40:14,410 --> 00:40:16,370
+deprived of the right to defend his
+
+1029
+00:40:16,370 --> 00:40:18,680
+family well justice Carney all I'll take
+
+1030
+00:40:18,680 --> 00:40:20,810
+your question about the presumptively
+
+1031
+00:40:20,810 --> 00:40:22,640
+lawful and the scope of the right first
+
+1032
+00:40:22,640 --> 00:40:25,520
+which is if you read the opinion in the
+
+1033
+00:40:25,520 --> 00:40:26,870
+Heller delivered the court in Heller
+
+1034
+00:40:26,870 --> 00:40:28,460
+delivered and its entirety it showed
+
+1035
+00:40:28,460 --> 00:40:30,320
+that everything hinged on the fact that
+
+1036
+00:40:30,320 --> 00:40:32,570
+petitioner in that case dick Heller was
+
+1037
+00:40:32,570 --> 00:40:34,460
+not disqualified from the exercise of
+
+1038
+00:40:34,460 --> 00:40:35,810
+second Amendment rights in the first
+
+1039
+00:40:35,810 --> 00:40:37,850
+place the court also grouped this
+
+1040
+00:40:37,850 --> 00:40:39,069
+discussion of the long stain
+
+1041
+00:40:39,069 --> 00:40:41,799
+prohibitions alongside its decision in
+
+1042
+00:40:41,799 --> 00:40:43,719
+United States versus Miller and that
+
+1043
+00:40:43,719 --> 00:40:45,459
+dates back to the 1930s where it said
+
+1044
+00:40:45,459 --> 00:40:47,469
+that sawed-off shotguns were
+
+1045
+00:40:47,469 --> 00:40:49,900
+presumptively categorically outside the
+
+1046
+00:40:49,900 --> 00:40:52,719
+Second Amendment right and so even if we
+
+1047
+00:40:52,719 --> 00:40:54,640
+believe that the presumptively lawful
+
+1048
+00:40:54,640 --> 00:40:56,799
+language refers to a rebuttable
+
+1049
+00:40:56,799 --> 00:40:58,180
+presumption which of course the state
+
+1050
+00:40:58,180 --> 00:41:01,539
+contests we believe that the burden that
+
+1051
+00:41:01,539 --> 00:41:03,579
+the petitioner in this case would have
+
+1052
+00:41:03,579 --> 00:41:06,880
+to show is that he is in some meaningful
+
+1053
+00:41:06,880 --> 00:41:09,279
+way different from the historically
+
+1054
+00:41:09,279 --> 00:41:11,799
+barred class and he's failed to carry
+
+1055
+00:41:11,799 --> 00:41:13,749
+that burden well let me follow up in
+
+1056
+00:41:13,749 --> 00:41:15,069
+just a second you said presumptively
+
+1057
+00:41:15,069 --> 00:41:17,349
+Roth lawful doesn't mean that it's a
+
+1058
+00:41:17,349 --> 00:41:19,509
+rebuttable presumption I mean the state
+
+1059
+00:41:19,509 --> 00:41:22,089
+can take whatever measures it wants with
+
+1060
+00:41:22,089 --> 00:41:24,069
+regard to felons and denying them right
+
+1061
+00:41:24,069 --> 00:41:26,410
+and there there's no examination that is
+
+1062
+00:41:26,410 --> 00:41:29,109
+appropriate justice Carney that's
+
+1063
+00:41:29,109 --> 00:41:32,140
+correct when a felon commits his crimes
+
+1064
+00:41:32,140 --> 00:41:34,599
+and is punishable by a sentence of up to
+
+1065
+00:41:34,599 --> 00:41:37,749
+five years in prison in this case he has
+
+1066
+00:41:37,749 --> 00:41:39,640
+forfeited his rights toothless's
+
+1067
+00:41:39,640 --> 00:41:42,309
+guarantee is right to bear arms to vote
+
+1068
+00:41:42,309 --> 00:41:44,650
+to serve on a jury to seek public office
+
+1069
+00:41:44,650 --> 00:41:46,900
+this Court has noted as much in its
+
+1070
+00:41:46,900 --> 00:41:48,400
+decisions such as Richardson versus
+
+1071
+00:41:48,400 --> 00:41:50,349
+Ramirez and we do not believe that the
+
+1072
+00:41:50,349 --> 00:41:52,569
+Second Amendment right stands in any way
+
+1073
+00:41:52,569 --> 00:41:55,539
+in contrast to those rights which as a
+
+1074
+00:41:55,539 --> 00:41:57,699
+matter of legislative grace the states
+
+1075
+00:41:57,699 --> 00:42:00,039
+do often permit as the petitioner in
+
+1076
+00:42:00,039 --> 00:42:01,900
+this case argues but that is not the
+
+1077
+00:42:01,900 --> 00:42:04,799
+same as a constitutional requirement so
+
+1078
+00:42:04,799 --> 00:42:07,420
+what do you do with the cases that we
+
+1079
+00:42:07,420 --> 00:42:10,809
+have to deal with people sexual
+
+1080
+00:42:10,809 --> 00:42:12,999
+predators for example and they're barred
+
+1081
+00:42:12,999 --> 00:42:15,219
+for a time period from their computers
+
+1082
+00:42:15,219 --> 00:42:16,779
+but there have been cases discussing
+
+1083
+00:42:16,779 --> 00:42:19,479
+that they cannot be barred forever from
+
+1084
+00:42:19,479 --> 00:42:23,469
+having access to a computer why why is
+
+1085
+00:42:23,469 --> 00:42:26,859
+that situation different well justice or
+
+1086
+00:42:26,859 --> 00:42:29,440
+I'd I would first note that again we
+
+1087
+00:42:29,440 --> 00:42:31,660
+believe that felons categorically
+
+1088
+00:42:31,660 --> 00:42:33,849
+forfeit their right to bear arms so long
+
+1089
+00:42:33,849 --> 00:42:36,130
+as they remain a felon so Heller
+
+1090
+00:42:36,130 --> 00:42:37,989
+referred to felons in the mentally ill
+
+1091
+00:42:37,989 --> 00:42:40,599
+in the present tense and this tells us
+
+1092
+00:42:40,599 --> 00:42:42,309
+something important which is that so
+
+1093
+00:42:42,309 --> 00:42:44,529
+long as someone remains a felon the
+
+1094
+00:42:44,529 --> 00:42:45,880
+state has not violated any
+
+1095
+00:42:45,880 --> 00:42:47,859
+constitutional right when it with holds
+
+1096
+00:42:47,859 --> 00:42:49,749
+from him the right to possess a firearm
+
+1097
+00:42:49,749 --> 00:42:52,000
+now when that status changed
+
+1098
+00:42:52,000 --> 00:42:55,359
+if a state continued to bar someone from
+
+1099
+00:42:55,359 --> 00:42:57,970
+continuing to own a firearm we believe
+
+1100
+00:42:57,970 --> 00:43:00,280
+that we might have a closer case what
+
+1101
+00:43:00,280 --> 00:43:03,880
+I'm sorry I'm a little confused how do
+
+1102
+00:43:03,880 --> 00:43:07,810
+you not become a felon are you taking
+
+1103
+00:43:07,810 --> 00:43:10,240
+their position that well you're under a
+
+1104
+00:43:10,240 --> 00:43:12,910
+criminal sentence you're a felon but
+
+1105
+00:43:12,910 --> 00:43:15,820
+once you leave a federal sentence you no
+
+1106
+00:43:15,820 --> 00:43:19,050
+longer are this man served his time on
+
+1107
+00:43:19,050 --> 00:43:22,869
+probation and he's been incident free
+
+1108
+00:43:22,869 --> 00:43:24,910
+for 15 years I'm not quite sure what you
+
+1109
+00:43:24,910 --> 00:43:25,330
+mean
+
+1110
+00:43:25,330 --> 00:43:28,030
+stop being a felon she certainly should
+
+1111
+00:43:28,030 --> 00:43:29,740
+justice Sotomayor what we mean is that
+
+1112
+00:43:29,740 --> 00:43:31,720
+someone would have to have either their
+
+1113
+00:43:31,720 --> 00:43:34,210
+rights restored the record expunged or
+
+1114
+00:43:34,210 --> 00:43:36,970
+would have to receive a pardon and the
+
+1115
+00:43:36,970 --> 00:43:39,160
+statute that aims is adopted of course
+
+1116
+00:43:39,160 --> 00:43:41,350
+references federal law provides that
+
+1117
+00:43:41,350 --> 00:43:44,230
+someone even with those conditions might
+
+1118
+00:43:44,230 --> 00:43:46,359
+have is an explicit restriction imposed
+
+1119
+00:43:46,359 --> 00:43:49,660
+upon them upon expungement or pardoned
+
+1120
+00:43:49,660 --> 00:43:51,250
+that they still are not able to possess
+
+1121
+00:43:51,250 --> 00:43:53,170
+a firearm and we believe a rights
+
+1122
+00:43:53,170 --> 00:43:56,400
+restored that's a civil rights restored
+
+1123
+00:43:56,400 --> 00:43:58,630
+we believe that's probably what that
+
+1124
+00:43:58,630 --> 00:44:02,710
+means yes and so are you taking the
+
+1125
+00:44:02,710 --> 00:44:05,410
+position that the petitioner in this
+
+1126
+00:44:05,410 --> 00:44:07,140
+case didn't have his rights restored
+
+1127
+00:44:07,140 --> 00:44:09,670
+well the record is civil rights restored
+
+1128
+00:44:09,670 --> 00:44:12,250
+the record is silent on that she's best
+
+1129
+00:44:12,250 --> 00:44:14,290
+I said in my or but we if we even if we
+
+1130
+00:44:14,290 --> 00:44:16,300
+assume that his rights have been
+
+1131
+00:44:16,300 --> 00:44:18,910
+restored in this case the political
+
+1132
+00:44:18,910 --> 00:44:20,200
+community argument petitioner has
+
+1133
+00:44:20,200 --> 00:44:22,869
+identified simply does not resolve felon
+
+1134
+00:44:22,869 --> 00:44:25,900
+and possession challenges if it did it
+
+1135
+00:44:25,900 --> 00:44:27,880
+would mean that states that allow
+
+1136
+00:44:27,880 --> 00:44:30,160
+currently incarcerated persons to vote
+
+1137
+00:44:30,160 --> 00:44:32,500
+such as Maine and Vermont would stand in
+
+1138
+00:44:32,500 --> 00:44:34,330
+violation of the Second Amendment when
+
+1139
+00:44:34,330 --> 00:44:35,980
+they prevented that person from
+
+1140
+00:44:35,980 --> 00:44:39,730
+exercising a right to bear arms if
+
+1141
+00:44:39,730 --> 00:44:42,760
+you're wrong about that it's a felony
+
+1142
+00:44:42,760 --> 00:44:45,760
+and that it's truly a misdemeanor assume
+
+1143
+00:44:45,760 --> 00:44:48,520
+arguendo it's a misdemeanor do you can
+
+1144
+00:44:48,520 --> 00:44:52,390
+you still win we can Justice elrod no
+
+1145
+00:44:52,390 --> 00:44:55,300
+okay can you give any example
+
+1146
+00:44:55,300 --> 00:44:57,370
+demeanor violation suspends a
+
+1147
+00:44:57,370 --> 00:45:00,040
+constitutional right forever well
+
+1148
+00:45:00,040 --> 00:45:01,420
+justice eller I would believe this is a
+
+1149
+00:45:01,420 --> 00:45:03,460
+situation analogous to the sixth
+
+1150
+00:45:03,460 --> 00:45:05,650
+amendment context so the court has said
+
+1151
+00:45:05,650 --> 00:45:08,110
+in Lewis that certain misdemeanors are
+
+1152
+00:45:08,110 --> 00:45:10,090
+serious enough to trigger the jury trial
+
+1153
+00:45:10,090 --> 00:45:12,430
+right other misdemeanors are mere petty
+
+1154
+00:45:12,430 --> 00:45:14,920
+offenses it has chosen an objective
+
+1155
+00:45:14,920 --> 00:45:16,870
+indicator of seriousness in those cases
+
+1156
+00:45:16,870 --> 00:45:18,970
+and it is looked to the maximum
+
+1157
+00:45:18,970 --> 00:45:21,610
+punishable sentence we ask the court to
+
+1158
+00:45:21,610 --> 00:45:24,070
+follow a similar path here certain
+
+1159
+00:45:24,070 --> 00:45:26,350
+misdemeanor crimes are so grave that
+
+1160
+00:45:26,350 --> 00:45:29,110
+they are functionally felonies and the
+
+1161
+00:45:29,110 --> 00:45:31,420
+states have long understood that they do
+
+1162
+00:45:31,420 --> 00:45:33,490
+not offend the Second Amendment when
+
+1163
+00:45:33,490 --> 00:45:35,230
+they prevent people who have committed
+
+1164
+00:45:35,230 --> 00:45:37,660
+those crimes from owning a gun because
+
+1165
+00:45:37,660 --> 00:45:39,970
+they are more likely to abuse a firearm
+
+1166
+00:45:39,970 --> 00:45:43,270
+as a fact of their criminal record now
+
+1167
+00:45:43,270 --> 00:45:45,370
+this accords with long-standing
+
+1168
+00:45:45,370 --> 00:45:48,040
+understandings of what state
+
+1169
+00:45:48,040 --> 00:45:50,740
+legislatures and what Congress can do
+
+1170
+00:45:50,740 --> 00:45:53,710
+and analyzing the types of people who
+
+1171
+00:45:53,710 --> 00:45:55,450
+are more likely to commit gun violence
+
+1172
+00:45:55,450 --> 00:45:57,310
+in the future the court said in Heller
+
+1173
+00:45:57,310 --> 00:45:59,920
+that certain policy choices were taken
+
+1174
+00:45:59,920 --> 00:46:02,200
+off the table it also said at the
+
+1175
+00:46:02,200 --> 00:46:04,270
+conclusion of its opinion that this did
+
+1176
+00:46:04,270 --> 00:46:06,310
+not leave the states powerless to combat
+
+1177
+00:46:06,310 --> 00:46:07,660
+the problem of gun violence in this
+
+1178
+00:46:07,660 --> 00:46:10,120
+country and so felon in possession laws
+
+1179
+00:46:10,120 --> 00:46:12,130
+like the one that Ames has enacted is
+
+1180
+00:46:12,130 --> 00:46:15,130
+valid policy choice exercised by the
+
+1181
+00:46:15,130 --> 00:46:17,530
+states and all of its applications so
+
+1182
+00:46:17,530 --> 00:46:19,750
+you're using it as a use in the status
+
+1183
+00:46:19,750 --> 00:46:22,810
+of felon as a proxy for dangerousness
+
+1184
+00:46:22,810 --> 00:46:25,570
+and yet not taking into account the
+
+1185
+00:46:25,570 --> 00:46:27,490
+lapse of time the non violent nature of
+
+1186
+00:46:27,490 --> 00:46:29,590
+the offense the fact that no time was
+
+1187
+00:46:29,590 --> 00:46:32,200
+served and or in no time was included in
+
+1188
+00:46:32,200 --> 00:46:33,640
+the sentence it seems like a very
+
+1189
+00:46:33,640 --> 00:46:39,010
+imperfect match doesn't the state have
+
+1190
+00:46:39,010 --> 00:46:41,040
+an obligation in light of the
+
+1191
+00:46:41,040 --> 00:46:43,510
+fundamental fundamental nature of the
+
+1192
+00:46:43,510 --> 00:46:46,090
+right to do better tailoring well
+
+1193
+00:46:46,090 --> 00:46:47,890
+justice Carney of two answers there
+
+1194
+00:46:47,890 --> 00:46:50,590
+first is that the unvirtuous citizen
+
+1195
+00:46:50,590 --> 00:46:53,650
+rationale that has long animated gun
+
+1196
+00:46:53,650 --> 00:46:56,710
+safety laws is not limited to a showing
+
+1197
+00:46:56,710 --> 00:46:58,360
+of future dangerousness now if it were
+
+1198
+00:46:58,360 --> 00:47:02,110
+so the statute in this case 922 G would
+
+1199
+00:47:02,110 --> 00:47:03,880
+not include people like those who've
+
+1200
+00:47:03,880 --> 00:47:05,740
+renounce their citizenship for example
+
+1201
+00:47:05,740 --> 00:47:08,590
+so second if we assume how
+
+1202
+00:47:08,590 --> 00:47:10,120
+for that the showing of future
+
+1203
+00:47:10,120 --> 00:47:13,120
+dangerousness is what justifies Ames's
+
+1204
+00:47:13,120 --> 00:47:14,800
+felon in possession law and nothing else
+
+1205
+00:47:14,800 --> 00:47:17,980
+then the state can succeed if it burdens
+
+1206
+00:47:17,980 --> 00:47:19,600
+a right petitioner enjoys under
+
+1207
+00:47:19,600 --> 00:47:21,250
+intermediate scrutiny but aren't you
+
+1208
+00:47:21,250 --> 00:47:23,590
+using the status of being a felon as a
+
+1209
+00:47:23,590 --> 00:47:25,240
+proxy for dangerousness I thought that's
+
+1210
+00:47:25,240 --> 00:47:27,760
+what I was just hearing you argue we do
+
+1211
+00:47:27,760 --> 00:47:29,170
+believe that there's significant
+
+1212
+00:47:29,170 --> 00:47:31,390
+correlation there Justice Carney we
+
+1213
+00:47:31,390 --> 00:47:33,610
+believe that the legislators do not err
+
+1214
+00:47:33,610 --> 00:47:35,380
+when they believe that those who
+
+1215
+00:47:35,380 --> 00:47:37,660
+committed crimes in the past and have a
+
+1216
+00:47:37,660 --> 00:47:39,760
+track record for violating the law are
+
+1217
+00:47:39,760 --> 00:47:42,310
+more likely to violate the law in the
+
+1218
+00:47:42,310 --> 00:47:44,290
+future and do so in a way that offends
+
+1219
+00:47:44,290 --> 00:47:47,200
+public safety and community security and
+
+1220
+00:47:47,200 --> 00:47:49,180
+so as applied to mr. groves who
+
+1221
+00:47:49,180 --> 00:47:52,900
+committed a misdemeanor of forging a an
+
+1222
+00:47:52,900 --> 00:47:56,830
+ID 17 years ago and has been law abiding
+
+1223
+00:47:56,830 --> 00:47:58,690
+since then I think your adversary would
+
+1224
+00:47:58,690 --> 00:48:02,170
+say that doesn't predict violence of any
+
+1225
+00:48:02,170 --> 00:48:05,230
+type how can you can test that well we
+
+1226
+00:48:05,230 --> 00:48:06,640
+disagreed there your honor and the
+
+1227
+00:48:06,640 --> 00:48:09,160
+reason that we disagree is because the
+
+1228
+00:48:09,160 --> 00:48:10,990
+court would have to require a more
+
+1229
+00:48:10,990 --> 00:48:13,240
+exacting standard in order to struck
+
+1230
+00:48:13,240 --> 00:48:15,400
+strike down the state's law it does not
+
+1231
+00:48:15,400 --> 00:48:17,440
+need to show that as applied to an
+
+1232
+00:48:17,440 --> 00:48:19,210
+individual person who is a state law
+
+1233
+00:48:19,210 --> 00:48:21,430
+misdemeanor that the law passes
+
+1234
+00:48:21,430 --> 00:48:23,410
+intermediate scrutiny rather it only
+
+1235
+00:48:23,410 --> 00:48:26,260
+needs to show that the law is valid as
+
+1236
+00:48:26,260 --> 00:48:28,630
+applied to that class of persons that
+
+1237
+00:48:28,630 --> 00:48:30,910
+the state reasonably believes posed a
+
+1238
+00:48:30,910 --> 00:48:33,570
+future increased risk of harm to others
+
+1239
+00:48:33,570 --> 00:48:37,720
+is it only to gun regulation of felons
+
+1240
+00:48:37,720 --> 00:48:41,440
+that we apply intermediate scrutiny or
+
+1241
+00:48:41,440 --> 00:48:44,230
+is it your position that all regulation
+
+1242
+00:48:44,230 --> 00:48:46,510
+of firearms is subject to strict
+
+1243
+00:48:46,510 --> 00:48:50,110
+scrutiny chief justice Sotomayor of
+
+1244
+00:48:50,110 --> 00:48:53,440
+course there are only a handful of cases
+
+1245
+00:48:53,440 --> 00:48:54,900
+dealing with the Second Amendment
+
+1246
+00:48:54,900 --> 00:48:57,220
+explicitly at the Supreme Court now the
+
+1247
+00:48:57,220 --> 00:48:59,050
+courts of appeals have applied
+
+1248
+00:48:59,050 --> 00:49:01,150
+intermediate scrutiny to any number of
+
+1249
+00:49:01,150 --> 00:49:03,400
+restrictions on the right to bear arms
+
+1250
+00:49:03,400 --> 00:49:06,250
+we only however proceed to strict
+
+1251
+00:49:06,250 --> 00:49:09,430
+scrutiny if the right that is restricted
+
+1252
+00:49:09,430 --> 00:49:12,640
+by the law is at the core of the Second
+
+1253
+00:49:12,640 --> 00:49:15,130
+Amendment right now felons as a class
+
+1254
+00:49:15,130 --> 00:49:17,860
+can never sit at the core of the second
+
+1255
+00:49:17,860 --> 00:49:18,880
+Amendment right because they have
+
+1256
+00:49:18,880 --> 00:49:20,500
+forfeited the right to bear arms
+
+1257
+00:49:20,500 --> 00:49:21,700
+entirely
+
+1258
+00:49:21,700 --> 00:49:23,860
+second even if we assume that
+
+1259
+00:49:23,860 --> 00:49:26,440
+presumptively lawful means that we have
+
+1260
+00:49:26,440 --> 00:49:28,360
+a rebuttable presumption here that
+
+1261
+00:49:28,360 --> 00:49:29,710
+language in the court's opinion in
+
+1262
+00:49:29,710 --> 00:49:31,600
+Heller must be given some weight and it
+
+1263
+00:49:31,600 --> 00:49:33,070
+can't be squared with strict scrutiny
+
+1264
+00:49:33,070 --> 00:49:36,670
+but usually means something can actually
+
+1265
+00:49:36,670 --> 00:49:40,300
+but it so what in your judgment would
+
+1266
+00:49:40,300 --> 00:49:43,540
+that be well chief justice Sotomayor the
+
+1267
+00:49:43,540 --> 00:49:44,920
+rebuttable presumption if as-applied
+
+1268
+00:49:44,920 --> 00:49:46,840
+challenges are allowed would come in
+
+1269
+00:49:46,840 --> 00:49:49,090
+those close cases where we're unsure
+
+1270
+00:49:49,090 --> 00:49:51,880
+whether someone can validly still be
+
+1271
+00:49:51,880 --> 00:49:54,820
+considered a felon so for example in the
+
+1272
+00:49:54,820 --> 00:49:57,010
+only Circuit Court of Appeals to ever
+
+1273
+00:49:57,010 --> 00:49:59,860
+uphold a as-applied challenge to an
+
+1274
+00:49:59,860 --> 00:50:02,620
+individual felon the person and the
+
+1275
+00:50:02,620 --> 00:50:03,970
+challengers in that case had already
+
+1276
+00:50:03,970 --> 00:50:06,970
+seat received relief under state law in
+
+1277
+00:50:06,970 --> 00:50:09,400
+state court but nevertheless was still
+
+1278
+00:50:09,400 --> 00:50:11,740
+subject to the federal prohibition so we
+
+1279
+00:50:11,740 --> 00:50:13,390
+can imagine the opposite being true as
+
+1280
+00:50:13,390 --> 00:50:16,060
+well now we can also imagine cases where
+
+1281
+00:50:16,060 --> 00:50:19,060
+someone has received their civil rights
+
+1282
+00:50:19,060 --> 00:50:21,520
+restored or received a pardon had the
+
+1283
+00:50:21,520 --> 00:50:23,260
+record expunged by a court but
+
+1284
+00:50:23,260 --> 00:50:25,210
+nevertheless under the statute is still
+
+1285
+00:50:25,210 --> 00:50:27,280
+prohibited from owning a firearm and
+
+1286
+00:50:27,280 --> 00:50:29,740
+while we still believe that law likely
+
+1287
+00:50:29,740 --> 00:50:31,180
+could pass for name we believe that
+
+1288
+00:50:31,180 --> 00:50:32,980
+would be a closer case and that would be
+
+1289
+00:50:32,980 --> 00:50:34,660
+the kind of as-applied challenge the
+
+1290
+00:50:34,660 --> 00:50:36,100
+court would accept because it would be
+
+1291
+00:50:36,100 --> 00:50:38,710
+answering a key question is this person
+
+1292
+00:50:38,710 --> 00:50:39,850
+still a felon
+
+1293
+00:50:39,850 --> 00:50:43,000
+in this case there's no doubt petitioner
+
+1294
+00:50:43,000 --> 00:50:45,820
+status has not changed and if and until
+
+1295
+00:50:45,820 --> 00:50:48,460
+that changes the state of aims does not
+
+1296
+00:50:48,460 --> 00:50:50,110
+stand in violation of the Second
+
+1297
+00:50:50,110 --> 00:50:51,910
+Amendment and enforcing its felon in
+
+1298
+00:50:51,910 --> 00:50:55,210
+possession law against several now some
+
+1299
+00:50:55,210 --> 00:50:58,780
+have some have criticized this approach
+
+1300
+00:50:58,780 --> 00:51:00,490
+that you're discussing this intermediate
+
+1301
+00:51:00,490 --> 00:51:02,710
+approach is treating the Second
+
+1302
+00:51:02,710 --> 00:51:06,370
+Amendment as a second class right would
+
+1303
+00:51:06,370 --> 00:51:09,550
+you agree that a publisher who was
+
+1304
+00:51:09,550 --> 00:51:13,090
+convicted of a misdemeanor could not
+
+1305
+00:51:13,090 --> 00:51:16,270
+have his publication rights suspended
+
+1306
+00:51:16,270 --> 00:51:18,450
+for the rest of his life
+
+1307
+00:51:18,450 --> 00:51:20,710
+justice aura we have we have two answers
+
+1308
+00:51:20,710 --> 00:51:22,990
+there first is that we don't advise
+
+1309
+00:51:22,990 --> 00:51:24,940
+intermediate scrutiny I'm not the first
+
+1310
+00:51:24,940 --> 00:51:28,930
+person to ask that question certainly we
+
+1311
+00:51:28,930 --> 00:51:30,580
+don't believe intermediate scrutiny is
+
+1312
+00:51:30,580 --> 00:51:32,710
+necessary here we believe that text
+
+1313
+00:51:32,710 --> 00:51:34,829
+history and tradition of the sex
+
+1314
+00:51:34,829 --> 00:51:37,050
+definitively resolve this question
+
+1315
+00:51:37,050 --> 00:51:39,849
+felons categorically lie outside the
+
+1316
+00:51:39,849 --> 00:51:42,250
+scope of the Second Amendment now to
+
+1317
+00:51:42,250 --> 00:51:43,690
+answer your question about the publisher
+
+1318
+00:51:43,690 --> 00:51:46,240
+in the First Amendment question I would
+
+1319
+00:51:46,240 --> 00:51:49,359
+need to say that the rights proceed from
+
+1320
+00:51:49,359 --> 00:51:51,760
+different historical rationales so
+
+1321
+00:51:51,760 --> 00:51:54,880
+whereas someone who is prohibited from
+
+1322
+00:51:54,880 --> 00:51:57,609
+engaging in the marketplace of ideas has
+
+1323
+00:51:57,609 --> 00:52:00,040
+had a disability worked upon him to
+
+1324
+00:52:00,040 --> 00:52:01,480
+engage in the fundamental right of
+
+1325
+00:52:01,480 --> 00:52:04,599
+freedom of expression someone who is
+
+1326
+00:52:04,599 --> 00:52:07,930
+violated by a statute that prohibits
+
+1327
+00:52:07,930 --> 00:52:10,450
+someone when he belongs to a class that
+
+1328
+00:52:10,450 --> 00:52:12,880
+is shown to be more dangerous that is a
+
+1329
+00:52:12,880 --> 00:52:14,680
+simple exercise of the state police
+
+1330
+00:52:14,680 --> 00:52:16,930
+power it is justified not as a punitive
+
+1331
+00:52:16,930 --> 00:52:19,810
+measure against him but by a exercise of
+
+1332
+00:52:19,810 --> 00:52:22,329
+the state's ability to protect public
+
+1333
+00:52:22,329 --> 00:52:24,339
+safety so you're saying we are supposed
+
+1334
+00:52:24,339 --> 00:52:25,690
+to treat the first and second
+
+1335
+00:52:25,690 --> 00:52:27,819
+differently is that what you're saying
+
+1336
+00:52:27,819 --> 00:52:30,280
+just justice Elrod we believe that the
+
+1337
+00:52:30,280 --> 00:52:32,589
+Second Amendment guarantee is just as
+
+1338
+00:52:32,589 --> 00:52:34,390
+fundamental as the first we only say
+
+1339
+00:52:34,390 --> 00:52:37,300
+that different purposes animate a felon
+
+1340
+00:52:37,300 --> 00:52:39,970
+in possession law as opposed to those
+
+1341
+00:52:39,970 --> 00:52:43,510
+that would hypo was a misdemeanor even a
+
+1342
+00:52:43,510 --> 00:52:45,609
+state law misdemeanor that might be
+
+1343
+00:52:45,609 --> 00:52:48,280
+subject to a traditional felon in
+
+1344
+00:52:48,280 --> 00:52:50,260
+possession law because of the virtue of
+
+1345
+00:52:50,260 --> 00:52:51,460
+the number of years that he can be
+
+1346
+00:52:51,460 --> 00:52:54,460
+placed in a term of years in prison so
+
+1347
+00:52:54,460 --> 00:52:57,400
+if we understand that the long-standing
+
+1348
+00:52:57,400 --> 00:52:59,920
+tradition of felon in possession laws
+
+1349
+00:52:59,920 --> 00:53:02,470
+that this court said was lawful in
+
+1350
+00:53:02,470 --> 00:53:05,500
+Heller remains just as lawful today the
+
+1351
+00:53:05,500 --> 00:53:07,210
+only reason that the court could find
+
+1352
+00:53:07,210 --> 00:53:09,760
+for the petitioner is if he was able to
+
+1353
+00:53:09,760 --> 00:53:12,010
+distinguish himself from the mine-run of
+
+1354
+00:53:12,010 --> 00:53:13,569
+cases that challenged felon in
+
+1355
+00:53:13,569 --> 00:53:15,460
+possession laws in this country year in
+
+1356
+00:53:15,460 --> 00:53:17,650
+and year out and that is a burden that
+
+1357
+00:53:17,650 --> 00:53:19,180
+petitioner has failed to carry in this
+
+1358
+00:53:19,180 --> 00:53:26,290
+case even the best typos you could make
+
+1359
+00:53:26,290 --> 00:53:30,430
+on that what's he missing justice Elrod
+
+1360
+00:53:30,430 --> 00:53:32,560
+what's missing is a change in his status
+
+1361
+00:53:32,560 --> 00:53:35,640
+as a felon other than him not being
+
+1362
+00:53:35,640 --> 00:53:38,470
+convicted is that that's the only thing
+
+1363
+00:53:38,470 --> 00:53:41,020
+missing and we believe that that is the
+
+1364
+00:53:41,020 --> 00:53:42,880
+key thing that is absent from this case
+
+1365
+00:53:42,880 --> 00:53:45,040
+justice Elrod if there are no further
+
+1366
+00:53:45,040 --> 00:53:47,650
+questions we ask the court to affirm
+
+1367
+00:53:47,650 --> 00:53:58,990
+thank you thank you thank you madam
+
+1368
+00:53:58,990 --> 00:54:00,280
+Chief Justice and may it please the
+
+1369
+00:54:00,280 --> 00:54:00,730
+court
+
+1370
+00:54:00,730 --> 00:54:02,680
+my name is Nick akar and today I will
+
+1371
+00:54:02,680 --> 00:54:05,290
+argue that the aims 3d printed gun
+
+1372
+00:54:05,290 --> 00:54:06,550
+violence prevention Act is
+
+1373
+00:54:06,550 --> 00:54:07,770
+constitutional
+
+1374
+00:54:07,770 --> 00:54:10,900
+your honors today technology enables
+
+1375
+00:54:10,900 --> 00:54:13,420
+individuals to 3d print guns in the
+
+1376
+00:54:13,420 --> 00:54:15,880
+comfort of their own home publishing
+
+1377
+00:54:15,880 --> 00:54:18,400
+these files offers individuals a new
+
+1378
+00:54:18,400 --> 00:54:19,900
+form of gun distribution that
+
+1379
+00:54:19,900 --> 00:54:22,150
+circumvents both state and federal gun
+
+1380
+00:54:22,150 --> 00:54:24,400
+safety we don't permit the banning of
+
+1381
+00:54:24,400 --> 00:54:29,190
+books but teach people how to make bombs
+
+1382
+00:54:29,190 --> 00:54:31,540
+the books don't provide the raw
+
+1383
+00:54:31,540 --> 00:54:34,510
+materials they don't provide the
+
+1384
+00:54:34,510 --> 00:54:38,320
+instruments to make the bombs so they're
+
+1385
+00:54:38,320 --> 00:54:40,180
+not much different than my mind the
+
+1386
+00:54:40,180 --> 00:54:46,060
+diagrams so why is the fact that a CAD
+
+1387
+00:54:46,060 --> 00:54:50,140
+diagram capable of being put into effect
+
+1388
+00:54:50,140 --> 00:54:52,150
+by someone else any different than a
+
+1389
+00:54:52,150 --> 00:54:54,580
+bomb-making book Your Honor we would
+
+1390
+00:54:54,580 --> 00:54:56,620
+argue that these 3d printable gun files
+
+1391
+00:54:56,620 --> 00:54:59,530
+those are regulated by the GV PA the Gun
+
+1392
+00:54:59,530 --> 00:55:01,630
+Violence Prevention Act and aims are not
+
+1393
+00:55:01,630 --> 00:55:04,210
+simple blueprints they are not the
+
+1394
+00:55:04,210 --> 00:55:06,070
+blueprint that tells an individual how
+
+1395
+00:55:06,070 --> 00:55:06,820
+to make a gun
+
+1396
+00:55:06,820 --> 00:55:08,830
+they're the blueprint that actually
+
+1397
+00:55:08,830 --> 00:55:11,710
+makes the gun this is a form of
+
+1398
+00:55:11,710 --> 00:55:14,050
+technology that this court or any court
+
+1399
+00:55:14,050 --> 00:55:15,730
+for that matter has ever countenance
+
+1400
+00:55:15,730 --> 00:55:18,430
+it's a technology that can build an
+
+1401
+00:55:18,430 --> 00:55:21,070
+object and it's in that way it's
+
+1402
+00:55:21,070 --> 00:55:23,200
+important to understand exactly what the
+
+1403
+00:55:23,200 --> 00:55:25,810
+GV PA regulates you see the axe plain
+
+1404
+00:55:25,810 --> 00:55:28,420
+language limits its scope to a subset of
+
+1405
+00:55:28,420 --> 00:55:31,120
+CAD files or computer code those that
+
+1406
+00:55:31,120 --> 00:55:33,430
+can automatically print an operational
+
+1407
+00:55:33,430 --> 00:55:35,830
+gun in other words your honors the GV PA
+
+1408
+00:55:35,830 --> 00:55:38,830
+does not regulate firearm design files
+
+1409
+00:55:38,830 --> 00:55:42,010
+or CAD files that simply depict virtual
+
+1410
+00:55:42,010 --> 00:55:44,710
+guns it only applies to those that can
+
+1411
+00:55:44,710 --> 00:55:47,380
+automatically create and produce an
+
+1412
+00:55:47,380 --> 00:55:49,240
+operational firearm those that are ready
+
+1413
+00:55:49,240 --> 00:55:52,150
+ensure that sounds nice but as I
+
+1414
+00:55:52,150 --> 00:55:56,110
+understand it it can't you just don't
+
+1415
+00:55:56,110 --> 00:55:59,460
+take of CAD
+
+1416
+00:55:59,460 --> 00:56:02,760
+script put it into the computer and the
+
+1417
+00:56:02,760 --> 00:56:06,360
+gun comes out of the computer as I
+
+1418
+00:56:06,360 --> 00:56:10,110
+understand it you have to adjust the
+
+1419
+00:56:10,110 --> 00:56:13,080
+program to a particular preacher you
+
+1420
+00:56:13,080 --> 00:56:15,330
+have to change the printing mechanism to
+
+1421
+00:56:15,330 --> 00:56:18,360
+do the slices and then you have to
+
+1422
+00:56:18,360 --> 00:56:21,270
+provide the raw materials and all sorts
+
+1423
+00:56:21,270 --> 00:56:23,580
+of other steps have to be taken before
+
+1424
+00:56:23,580 --> 00:56:26,010
+the gun produces it doesn't come out of
+
+1425
+00:56:26,010 --> 00:56:28,740
+the cat wholesale Your Honor we would
+
+1426
+00:56:28,740 --> 00:56:30,150
+disagree with that description of the
+
+1427
+00:56:30,150 --> 00:56:33,450
+technology it is true that individuals
+
+1428
+00:56:33,450 --> 00:56:35,070
+might have to put the puzzle pieces of
+
+1429
+00:56:35,070 --> 00:56:36,510
+the gun together or purchase the raw
+
+1430
+00:56:36,510 --> 00:56:39,960
+materials but it is not true that CAD
+
+1431
+00:56:39,960 --> 00:56:42,570
+files with ready instructions encoded
+
+1432
+00:56:42,570 --> 00:56:44,610
+within them can be published on the
+
+1433
+00:56:44,610 --> 00:56:46,740
+internet those files are available and
+
+1434
+00:56:46,740 --> 00:56:49,080
+in fact a domestic abuser names just two
+
+1435
+00:56:49,080 --> 00:56:51,210
+years ago downloaded one of these files
+
+1436
+00:56:51,210 --> 00:56:53,040
+and there's no evidence in the record to
+
+1437
+00:56:53,040 --> 00:56:54,750
+suggest that there was any slicing
+
+1438
+00:56:54,750 --> 00:56:57,330
+needed and in fact well he only as I
+
+1439
+00:56:57,330 --> 00:57:02,340
+understood it used a CAD part in a
+
+1440
+00:57:02,340 --> 00:57:05,240
+completed gun he didn't use the whole
+
+1441
+00:57:05,240 --> 00:57:08,190
+certainly Your Honor I it is possible
+
+1442
+00:57:08,190 --> 00:57:10,440
+for these CAD files to print parts but
+
+1443
+00:57:10,440 --> 00:57:12,600
+the contention here as chief justice
+
+1444
+00:57:12,600 --> 00:57:14,160
+sotomayor you mentioned is that the
+
+1445
+00:57:14,160 --> 00:57:17,310
+files are require a number of steps and
+
+1446
+00:57:17,310 --> 00:57:18,690
+we would disagree with that contention
+
+1447
+00:57:18,690 --> 00:57:21,000
+while they do require some steps there
+
+1448
+00:57:21,000 --> 00:57:24,330
+are CAD files that unlike firearm design
+
+1449
+00:57:24,330 --> 00:57:25,980
+files which do not have instructions to
+
+1450
+00:57:25,980 --> 00:57:28,380
+a 3d printer there are files that do
+
+1451
+00:57:28,380 --> 00:57:30,060
+have instructions to a 3d printer and
+
+1452
+00:57:30,060 --> 00:57:32,850
+would enable a young child or a domestic
+
+1453
+00:57:32,850 --> 00:57:35,670
+user or a felon to very easily print
+
+1454
+00:57:35,670 --> 00:57:37,770
+their very own gun in the comfort of
+
+1455
+00:57:37,770 --> 00:57:39,240
+their own home it still isn't this is a
+
+1456
+00:57:39,240 --> 00:57:41,610
+content-based restriction this is saying
+
+1457
+00:57:41,610 --> 00:57:43,620
+you cannot publish to the Internet
+
+1458
+00:57:43,620 --> 00:57:45,350
+upload files that provide information
+
+1459
+00:57:45,350 --> 00:57:48,990
+that can be accessed and read and
+
+1460
+00:57:48,990 --> 00:57:51,690
+understood by a user albeit with a
+
+1461
+00:57:51,690 --> 00:57:54,540
+functional aspect to it but we don't
+
+1462
+00:57:54,540 --> 00:57:56,330
+like content-based restrictions
+
+1463
+00:57:56,330 --> 00:57:58,830
+generally you have to satisfy strict
+
+1464
+00:57:58,830 --> 00:58:02,130
+scrutiny and you know the record
+
+1465
+00:58:02,130 --> 00:58:06,290
+suggested that such files and
+
+1466
+00:58:06,290 --> 00:58:09,540
+alternative CAD programs and related
+
+1467
+00:58:09,540 --> 00:58:11,340
+programs have been available for quite a
+
+1468
+00:58:11,340 --> 00:58:11,950
+while
+
+1469
+00:58:11,950 --> 00:58:15,170
+that Ames is the only jurisdiction that
+
+1470
+00:58:15,170 --> 00:58:16,940
+is banning their uploading to the
+
+1471
+00:58:16,940 --> 00:58:20,510
+Internet and what I need you to explain
+
+1472
+00:58:20,510 --> 00:58:21,980
+to me why the state is a compelling
+
+1473
+00:58:21,980 --> 00:58:24,279
+interest that is narrowly tailored in
+
+1474
+00:58:24,279 --> 00:58:26,900
+restricting the transfer of this
+
+1475
+00:58:26,900 --> 00:58:28,940
+information in the way that the statute
+
+1476
+00:58:28,940 --> 00:58:31,339
+does certainly your honor I'll adjust
+
+1477
+00:58:31,339 --> 00:58:33,410
+the first part of your question noting
+
+1478
+00:58:33,410 --> 00:58:34,609
+that this might be a content-based
+
+1479
+00:58:34,609 --> 00:58:36,079
+regulation and we would reject that
+
+1480
+00:58:36,079 --> 00:58:38,420
+contention under read a content-based
+
+1481
+00:58:38,420 --> 00:58:40,190
+regulation is content-based if it
+
+1482
+00:58:40,190 --> 00:58:42,319
+regulates based off of the idea or the
+
+1483
+00:58:42,319 --> 00:58:44,270
+message expressed and that's not what
+
+1484
+00:58:44,270 --> 00:58:47,029
+the GV PA does here the gvp a regulation
+
+1485
+00:58:47,029 --> 00:58:53,839
+says don't don't upload a diagram of a
+
+1486
+00:58:53,839 --> 00:58:58,730
+gun how is that not an idea well your
+
+1487
+00:58:58,730 --> 00:58:59,869
+honor under the plain text of the
+
+1488
+00:58:59,869 --> 00:59:02,180
+statute the statute does not say that an
+
+1489
+00:59:02,180 --> 00:59:04,160
+individual cannot upload a diagram of
+
+1490
+00:59:04,160 --> 00:59:06,529
+the gun of a gun it simply indicates
+
+1491
+00:59:06,529 --> 00:59:08,779
+that an individual cannot upload onto
+
+1492
+00:59:08,779 --> 00:59:11,270
+the internet available to the public a
+
+1493
+00:59:11,270 --> 00:59:13,940
+diagram of a gun that can automatically
+
+1494
+00:59:13,940 --> 00:59:16,039
+produce a firearm a diagram that has
+
+1495
+00:59:16,039 --> 00:59:18,349
+instructions that would enable somebody
+
+1496
+00:59:18,349 --> 00:59:20,119
+to automatically print a firearm that
+
+1497
+00:59:20,119 --> 00:59:22,069
+functional component is vitally
+
+1498
+00:59:22,069 --> 00:59:23,779
+important to the narrow tailoring of the
+
+1499
+00:59:23,779 --> 00:59:26,450
+GV PA to justice karna justice karna to
+
+1500
+00:59:26,450 --> 00:59:28,819
+your point and in that way it's
+
+1501
+00:59:28,819 --> 00:59:31,400
+important also to recognize that in
+
+1502
+00:59:31,400 --> 00:59:33,260
+contradiction of petitioners statement
+
+1503
+00:59:33,260 --> 00:59:35,750
+Ames is not the only state to have
+
+1504
+00:59:35,750 --> 00:59:37,960
+prohibited the publishing of these files
+
+1505
+00:59:37,960 --> 00:59:40,400
+New Jersey recently prohibited the
+
+1506
+00:59:40,400 --> 00:59:42,410
+publishing of these 3d printable gun
+
+1507
+00:59:42,410 --> 00:59:44,930
+files and for that matter over the past
+
+1508
+00:59:44,930 --> 00:59:47,839
+five years the publishing of these files
+
+1509
+00:59:47,839 --> 00:59:50,119
+has actually been illegal under a
+
+1510
+00:59:50,119 --> 00:59:51,950
+nationwide injunction presented in the
+
+1511
+00:59:51,950 --> 00:59:53,900
+defense distributed cases that has only
+
+1512
+00:59:53,900 --> 00:59:56,480
+become illegal in August furthermore
+
+1513
+00:59:56,480 --> 01:00:00,380
+since those files have been allowed to
+
+1514
+01:00:00,380 --> 01:00:03,079
+be uploaded legally after the Trump
+
+1515
+01:00:03,079 --> 01:00:05,299
+administration has allowed for them to
+
+1516
+01:00:05,299 --> 01:00:08,240
+be uploaded over 20 states including
+
+1517
+01:00:08,240 --> 01:00:10,579
+California Washington North Carolina and
+
+1518
+01:00:10,579 --> 01:00:12,589
+a number a number of others who
+
+1519
+01:00:12,589 --> 01:00:14,359
+understand that the uploading of these
+
+1520
+01:00:14,359 --> 01:00:17,180
+3d printable gun files poses a threat to
+
+1521
+01:00:17,180 --> 01:00:21,410
+both public safety and got any - are you
+
+1522
+01:00:21,410 --> 01:00:22,520
+agreeing though that we have a
+
+1523
+01:00:22,520 --> 01:00:25,020
+content-based restriction on speed
+
+1524
+01:00:25,020 --> 01:00:28,050
+no your honor why not we don't believe
+
+1525
+01:00:28,050 --> 01:00:29,250
+this is a content-based restriction
+
+1526
+01:00:29,250 --> 01:00:32,370
+because it it regulates based off of the
+
+1527
+01:00:32,370 --> 01:00:34,590
+functionality of the file but but what
+
+1528
+01:00:34,590 --> 01:00:37,740
+the statute says is you may not publish
+
+1529
+01:00:37,740 --> 01:00:40,110
+over the internet digital instructions
+
+1530
+01:00:40,110 --> 01:00:42,420
+in the form of CAD files or other
+
+1531
+01:00:42,420 --> 01:00:45,570
+computer code code is communication
+
+1532
+01:00:45,570 --> 01:00:48,570
+files or communication digital
+
+1533
+01:00:48,570 --> 01:00:50,970
+instructions are communication and it's
+
+1534
+01:00:50,970 --> 01:00:53,610
+a particular kind of instruction or
+
+1535
+01:00:53,610 --> 01:00:55,500
+communication that is regulated here I
+
+1536
+01:00:55,500 --> 01:00:57,030
+don't understand why that is in a
+
+1537
+01:00:57,030 --> 01:00:59,310
+content-based restriction as to which we
+
+1538
+01:00:59,310 --> 01:01:01,830
+apply strict scrutiny well your honor in
+
+1539
+01:01:01,830 --> 01:01:03,570
+the first instance we'd argue that this
+
+1540
+01:01:03,570 --> 01:01:05,880
+speech if it is to be categorized as
+
+1541
+01:01:05,880 --> 01:01:07,950
+speech by this Court should actually be
+
+1542
+01:01:07,950 --> 01:01:09,570
+unprotected by the First Amendment
+
+1543
+01:01:09,570 --> 01:01:11,400
+because it is integral to criminal
+
+1544
+01:01:11,400 --> 01:01:13,260
+conduct under this course jurisprudence
+
+1545
+01:01:13,260 --> 01:01:14,940
+in Gibbon II and thus the content-based
+
+1546
+01:01:14,940 --> 01:01:17,280
+angry need not even come up I'm sorry
+
+1547
+01:01:17,280 --> 01:01:21,300
+what's intricate there is no unless
+
+1548
+01:01:21,300 --> 01:01:23,670
+there's a law and aims that you can't
+
+1549
+01:01:23,670 --> 01:01:27,060
+possess a firearm in your home what's
+
+1550
+01:01:27,060 --> 01:01:32,730
+illegal about having a CAD created gun
+
+1551
+01:01:32,730 --> 01:01:36,090
+in your home your honor under Section
+
+1552
+01:01:36,090 --> 01:01:38,580
+922 D of the Federal firearm statute
+
+1553
+01:01:38,580 --> 01:01:40,770
+there's a restriction on the
+
+1554
+01:01:40,770 --> 01:01:43,050
+indiscriminate distribution of guns to
+
+1555
+01:01:43,050 --> 01:01:44,790
+individuals they cannot legally own them
+
+1556
+01:01:44,790 --> 01:01:47,480
+there's also a restriction across not
+
+1557
+01:01:47,480 --> 01:01:51,570
+that's certain convicted felons can't
+
+1558
+01:01:51,570 --> 01:01:55,820
+own them yes sir a normal unconvicted
+
+1559
+01:01:55,820 --> 01:02:00,750
+person myself sitting in my home can I
+
+1560
+01:02:00,750 --> 01:02:04,260
+own a gun yes your honor I would presume
+
+1561
+01:02:04,260 --> 01:02:08,820
+so if I were to take this CAD program
+
+1562
+01:02:08,820 --> 01:02:11,130
+and create a gun
+
+1563
+01:02:11,130 --> 01:02:14,790
+other than this law would I be breaking
+
+1564
+01:02:14,790 --> 01:02:17,550
+any other law you would not your honor
+
+1565
+01:02:17,550 --> 01:02:19,620
+and we believe that the G V so why is
+
+1566
+01:02:19,620 --> 01:02:22,350
+this an instrumentality of a crime of
+
+1567
+01:02:22,350 --> 01:02:25,380
+criminal conduct it's the person who
+
+1568
+01:02:25,380 --> 01:02:28,410
+uses it illegally who's committing the
+
+1569
+01:02:28,410 --> 01:02:30,810
+crime it's not the program committing
+
+1570
+01:02:30,810 --> 01:02:32,940
+the crime well your honor we believe the
+
+1571
+01:02:32,940 --> 01:02:34,530
+internet is important to distinguish
+
+1572
+01:02:34,530 --> 01:02:37,740
+here because on the internet there are
+
+1573
+01:02:37,740 --> 01:02:39,330
+proximately by our calculations about
+
+1574
+01:02:39,330 --> 01:02:41,880
+one in every four persons are prohibited
+
+1575
+01:02:41,880 --> 01:02:44,010
+from owning a firearm on those who have
+
+1576
+01:02:44,010 --> 01:02:45,960
+access to the Internet and under Federal
+
+1577
+01:02:45,960 --> 01:02:48,240
+Firearms ovulation we have one out of
+
+1578
+01:02:48,240 --> 01:02:50,850
+four Internet users or convicted felons
+
+1579
+01:02:50,850 --> 01:02:52,770
+I know your honor but children are also
+
+1580
+01:02:52,770 --> 01:02:55,140
+prohibited from owning handguns those
+
+1581
+01:02:55,140 --> 01:02:57,630
+handguns that petitioner wishes to put
+
+1582
+01:02:57,630 --> 01:03:00,330
+freely on online and we would argue
+
+1583
+01:03:00,330 --> 01:03:02,580
+what's the source of that statement Oh
+
+1584
+01:03:02,580 --> 01:03:03,360
+your honor
+
+1585
+01:03:03,360 --> 01:03:05,250
+according to recent census data there
+
+1586
+01:03:05,250 --> 01:03:07,500
+are about 75 to 80 million children in
+
+1587
+01:03:07,500 --> 01:03:09,450
+the u.s. who have internet access and
+
+1588
+01:03:09,450 --> 01:03:13,619
+there are a number about 5 to 6 million
+
+1589
+01:03:13,619 --> 01:03:15,890
+felons and that's not even counting
+
+1590
+01:03:15,890 --> 01:03:19,440
+those citizens as whose non-citizens who
+
+1591
+01:03:19,440 --> 01:03:20,670
+are here in the United States who cannot
+
+1592
+01:03:20,670 --> 01:03:22,350
+own a gun so your argument is that
+
+1593
+01:03:22,350 --> 01:03:25,050
+because there are people who are not
+
+1594
+01:03:25,050 --> 01:03:26,730
+allowed we'll just call them bad people
+
+1595
+01:03:26,730 --> 01:03:29,580
+or people who are too young can't have
+
+1596
+01:03:29,580 --> 01:03:31,860
+this that the people lawful people
+
+1597
+01:03:31,860 --> 01:03:34,500
+should be deprived access why is it that
+
+1598
+01:03:34,500 --> 01:03:37,740
+just quintessential over breath Your
+
+1599
+01:03:37,740 --> 01:03:39,060
+Honor we don't think that the lawful
+
+1600
+01:03:39,060 --> 01:03:41,570
+individuals who can own this gun are
+
+1601
+01:03:41,570 --> 01:03:45,090
+deprived of access the gvp a we'd argue
+
+1602
+01:03:45,090 --> 01:03:47,940
+does not is not a total ban on 3d
+
+1603
+01:03:47,940 --> 01:03:49,590
+printable gun files it allows for
+
+1604
+01:03:49,590 --> 01:03:51,660
+private communications and as justice
+
+1605
+01:03:51,660 --> 01:03:53,970
+Elrod you noted it even allows for a
+
+1606
+01:03:53,970 --> 01:03:56,160
+website to be posted and information to
+
+1607
+01:03:56,160 --> 01:03:58,800
+be disseminated to let people know that
+
+1608
+01:03:58,800 --> 01:04:00,210
+if they want these files they can
+
+1609
+01:04:00,210 --> 01:04:01,950
+distribute them privately but not
+
+1610
+01:04:01,950 --> 01:04:04,380
+publicly in an area where children and
+
+1611
+01:04:04,380 --> 01:04:07,320
+felons can download these files at a
+
+1612
+01:04:07,320 --> 01:04:11,220
+whim if they want to and possess a 3d
+
+1613
+01:04:11,220 --> 01:04:13,619
+printable gun well so why isn't it that
+
+1614
+01:04:13,619 --> 01:04:18,240
+you didn't regulate that activity why a
+
+1615
+01:04:18,240 --> 01:04:20,940
+total ban rather than one that says if
+
+1616
+01:04:20,940 --> 01:04:23,790
+you're going to share a file you have to
+
+1617
+01:04:23,790 --> 01:04:26,090
+have that person identify themselves
+
+1618
+01:04:26,090 --> 01:04:28,590
+Your Honor we think in the context of
+
+1619
+01:04:28,590 --> 01:04:30,600
+gun regulations it's important to have
+
+1620
+01:04:30,600 --> 01:04:32,660
+both preventive and remedial measures
+
+1621
+01:04:32,660 --> 01:04:35,609
+this court in the federal federal
+
+1622
+01:04:35,609 --> 01:04:37,619
+firearm regulations have recognized this
+
+1623
+01:04:37,619 --> 01:04:40,080
+not only banning the distribution of
+
+1624
+01:04:40,080 --> 01:04:43,109
+guns generally and also not simply
+
+1625
+01:04:43,109 --> 01:04:45,750
+requiring registration of firearms after
+
+1626
+01:04:45,750 --> 01:04:48,119
+they're given to from a federal firearm
+
+1627
+01:04:48,119 --> 01:04:50,100
+dealer to an individual but they put in
+
+1628
+01:04:50,100 --> 01:04:51,269
+place a federal background
+
+1629
+01:04:51,269 --> 01:04:53,729
+check the GV PA acts like that federal
+
+1630
+01:04:53,729 --> 01:04:55,279
+background check in that it is a
+
+1631
+01:04:55,279 --> 01:04:59,099
+preventative basis speech so if you
+
+1632
+01:04:59,099 --> 01:05:02,399
+can't be you can't chill per protected
+
+1633
+01:05:02,399 --> 01:05:04,709
+speech you have to be left to Taylor
+
+1634
+01:05:04,709 --> 01:05:06,419
+well Your Honor we do believe that this
+
+1635
+01:05:06,419 --> 01:05:08,369
+is narrowly tailored in that it does not
+
+1636
+01:05:08,369 --> 01:05:10,589
+touch all firearm design files it had
+
+1637
+01:05:10,589 --> 01:05:12,899
+touches a specific subset and if this
+
+1638
+01:05:12,899 --> 01:05:14,909
+Court were to grant full speech
+
+1639
+01:05:14,909 --> 01:05:17,099
+protection and thus reject the integral
+
+1640
+01:05:17,099 --> 01:05:18,809
+to criminal conduct argument that we
+
+1641
+01:05:18,809 --> 01:05:21,029
+submit we believe that it would it's
+
+1642
+01:05:21,029 --> 01:05:23,339
+important for the doctrine the First
+
+1643
+01:05:23,339 --> 01:05:24,779
+Amendment doctrine that this Court has
+
+1644
+01:05:24,779 --> 01:05:29,039
+proffered and read that that doctrine be
+
+1645
+01:05:29,039 --> 01:05:31,769
+adapted to deal with the intricacies of
+
+1646
+01:05:31,769 --> 01:05:34,140
+this new technology most of them I have
+
+1647
+01:05:34,140 --> 01:05:37,829
+is that although you're talking to me
+
+1648
+01:05:37,829 --> 01:05:41,279
+about various needs of the state the law
+
+1649
+01:05:41,279 --> 01:05:44,309
+is written isn't even satisfying one of
+
+1650
+01:05:44,309 --> 01:05:47,159
+those needs because is your adversary
+
+1651
+01:05:47,159 --> 01:05:51,869
+correct that someone can put this cat on
+
+1652
+01:05:51,869 --> 01:05:54,869
+a website or offer it and as long as
+
+1653
+01:05:54,869 --> 01:05:56,969
+someone privately emails them for it
+
+1654
+01:05:56,969 --> 01:05:59,579
+they can share it we do believe that
+
+1655
+01:05:59,579 --> 01:06:01,979
+would be allowed under the GV PA your
+
+1656
+01:06:01,979 --> 01:06:07,769
+honor so if it allows that what is the
+
+1657
+01:06:07,769 --> 01:06:10,169
+ban accomplishing your honor the ban is
+
+1658
+01:06:10,169 --> 01:06:11,880
+accomplishing something that occurred
+
+1659
+01:06:11,880 --> 01:06:14,630
+and aims just two years ago and other
+
+1660
+01:06:14,630 --> 01:06:18,869
+other instances where individuals who
+
+1661
+01:06:18,869 --> 01:06:20,909
+would like to have these files at a
+
+1662
+01:06:20,909 --> 01:06:22,949
+moment's notice can get them it also
+
+1663
+01:06:22,949 --> 01:06:24,809
+disables all that gentlemen would have
+
+1664
+01:06:24,809 --> 01:06:28,979
+had to do was to write to the petitioner
+
+1665
+01:06:28,979 --> 01:06:31,169
+and ask him for a copy of the CAD and
+
+1666
+01:06:31,169 --> 01:06:32,489
+that would have been perfectly legal
+
+1667
+01:06:32,489 --> 01:06:34,559
+your honor we think the delay here is
+
+1668
+01:06:34,559 --> 01:06:37,049
+important in the context of gun laws the
+
+1669
+01:06:37,049 --> 01:06:39,299
+narrow tailoring is sufficient here
+
+1670
+01:06:39,299 --> 01:06:41,759
+because it doesn't burden substantially
+
+1671
+01:06:41,759 --> 01:06:44,099
+more speech that is then is necessary
+
+1672
+01:06:44,099 --> 01:06:45,839
+for example the GV PA could have been
+
+1673
+01:06:45,839 --> 01:06:47,880
+written to cover those files without
+
+1674
+01:06:47,880 --> 01:06:50,639
+instructions to a 3d printer but the
+
+1675
+01:06:50,639 --> 01:06:52,349
+aims legislature decided to narrowly
+
+1676
+01:06:52,349 --> 01:06:54,569
+tailored statute so that it wouldn't
+
+1677
+01:06:54,569 --> 01:06:56,579
+confront the issues posed by the First
+
+1678
+01:06:56,579 --> 01:06:59,159
+Amendment doctrine but we do argue that
+
+1679
+01:06:59,159 --> 01:07:00,719
+the First Amendment doctrine needs to be
+
+1680
+01:07:00,719 --> 01:07:02,519
+changed in the context of this new type
+
+1681
+01:07:02,519 --> 01:07:04,620
+of speech if this Court were to grant
+
+1682
+01:07:04,620 --> 01:07:06,810
+protection to 3d printable gun files so
+
+1683
+01:07:06,810 --> 01:07:09,150
+you're saying you can delay what for 48
+
+1684
+01:07:09,150 --> 01:07:11,970
+hours for 72 you can delay speech rights
+
+1685
+01:07:11,970 --> 01:07:13,590
+for a certain time periods we don't
+
+1686
+01:07:13,590 --> 01:07:17,130
+allow the delay of First Amendment
+
+1687
+01:07:17,130 --> 01:07:19,260
+rights for time periods a or other
+
+1688
+01:07:19,260 --> 01:07:22,200
+fundamental rights except under very
+
+1689
+01:07:22,200 --> 01:07:25,770
+limited circumstances certainly Your
+
+1690
+01:07:25,770 --> 01:07:27,150
+Honor this Court made that point clear
+
+1691
+01:07:27,150 --> 01:07:29,220
+in part Nikki stated that there are some
+
+1692
+01:07:29,220 --> 01:07:31,170
+rare occasions in which a law
+
+1693
+01:07:31,170 --> 01:07:33,030
+suppressing one-party speech may be
+
+1694
+01:07:33,030 --> 01:07:35,070
+justified by an interest in deterring
+
+1695
+01:07:35,070 --> 01:07:37,290
+criminal conduct by another and we think
+
+1696
+01:07:37,290 --> 01:07:41,850
+in the context where a file like the 3d
+
+1697
+01:07:41,850 --> 01:07:43,770
+printable gun file that you hear can
+
+1698
+01:07:43,770 --> 01:07:46,770
+automatically produce a firearm that is
+
+1699
+01:07:46,770 --> 01:07:49,260
+the rare scenario that we have here and
+
+1700
+01:07:49,260 --> 01:07:52,050
+for that reason we urge this court to do
+
+1701
+01:07:52,050 --> 01:07:54,480
+what it did in Denver and and carpenter
+
+1702
+01:07:54,480 --> 01:07:56,400
+and adjust its president in the face of
+
+1703
+01:07:56,400 --> 01:07:58,500
+technology that we've never seen before
+
+1704
+01:07:58,500 --> 01:08:00,870
+in Carpinteria this Court stated firmly
+
+1705
+01:08:00,870 --> 01:08:03,030
+that when confronting new concerns
+
+1706
+01:08:03,030 --> 01:08:04,680
+wrought by digital technology
+
+1707
+01:08:04,680 --> 01:08:06,120
+this Court has strayed away from
+
+1708
+01:08:06,120 --> 01:08:07,800
+uncritically applying its prior
+
+1709
+01:08:07,800 --> 01:08:09,900
+precedent and for that reason we urge
+
+1710
+01:08:09,900 --> 01:08:12,480
+this court to understand that this
+
+1711
+01:08:12,480 --> 01:08:14,760
+speech if it is to be categorised speech
+
+1712
+01:08:14,760 --> 01:08:17,640
+is entirely different from any type of
+
+1713
+01:08:17,640 --> 01:08:19,310
+speech that this Court has seen before
+
+1714
+01:08:19,310 --> 01:08:22,050
+but if this court were to move on and
+
+1715
+01:08:22,050 --> 01:08:23,850
+not adapt its precedent in applying
+
+1716
+01:08:23,850 --> 01:08:25,859
+intermediate scrutiny to 3d printable
+
+1717
+01:08:25,859 --> 01:08:27,870
+gun files that are based on the
+
+1718
+01:08:27,870 --> 01:08:30,000
+functionality of the file rather than
+
+1719
+01:08:30,000 --> 01:08:32,520
+the idea our message is expressed we do
+
+1720
+01:08:32,520 --> 01:08:34,439
+think that we need to have produced a
+
+1721
+01:08:34,439 --> 01:08:35,069
+minute please
+
+1722
+01:08:35,069 --> 01:08:39,720
+in assessing whether you've shown a that
+
+1723
+01:08:39,720 --> 01:08:41,609
+this law is necessary given the First
+
+1724
+01:08:41,609 --> 01:08:44,160
+Amendment concerns that my colleagues
+
+1725
+01:08:44,160 --> 01:08:47,520
+have have raised I was struck by the
+
+1726
+01:08:47,520 --> 01:08:49,800
+points made by your adversary about the
+
+1727
+01:08:49,800 --> 01:08:53,250
+easy availability of 80 percent guns
+
+1728
+01:08:53,250 --> 01:08:55,170
+that can be assembled that are basically
+
+1729
+01:08:55,170 --> 01:08:57,840
+sold in a modular fashion and that can
+
+1730
+01:08:57,840 --> 01:09:01,830
+be put together they wouldn't escape
+
+1731
+01:09:01,830 --> 01:09:03,840
+metal detectors I suppose to that extent
+
+1732
+01:09:03,840 --> 01:09:06,000
+they would be somewhat less worrisome
+
+1733
+01:09:06,000 --> 01:09:08,970
+but are readily available at the
+
+1734
+01:09:08,970 --> 01:09:10,620
+circumvent the state of aims
+
+1735
+01:09:10,620 --> 01:09:13,080
+registration system altogether we need
+
+1736
+01:09:13,080 --> 01:09:15,840
+to take that ready availability into
+
+1737
+01:09:15,840 --> 01:09:17,469
+account in assessing the
+
+1738
+01:09:17,469 --> 01:09:20,229
+whether you've shown that this is a
+
+1739
+01:09:20,229 --> 01:09:23,198
+necessary regulation in your overall gun
+
+1740
+01:09:23,198 --> 01:09:25,809
+control approach I don't believe so
+
+1741
+01:09:25,809 --> 01:09:28,089
+justice Carney although there might be
+
+1742
+01:09:28,089 --> 01:09:30,339
+one loophole in Ames's regulatory scheme
+
+1743
+01:09:30,339 --> 01:09:32,920
+that does not permit the allowance of
+
+1744
+01:09:32,920 --> 01:09:35,859
+another loophole the GV PA was enacted
+
+1745
+01:09:35,859 --> 01:09:37,719
+to close one loophole and the aims
+
+1746
+01:09:37,719 --> 01:09:39,549
+legislature much like the New Jersey
+
+1747
+01:09:39,549 --> 01:09:42,969
+Legislature can if it wants closed the
+
+1748
+01:09:42,969 --> 01:09:45,819
+80% receiver loop but but this but this
+
+1749
+01:09:45,819 --> 01:09:47,799
+loophole has First Amendment
+
+1750
+01:09:47,799 --> 01:09:49,059
+implications whereas the other one
+
+1751
+01:09:49,059 --> 01:09:50,349
+doesn't and that's why I'm asking
+
+1752
+01:09:50,349 --> 01:09:53,189
+whether there can be a closer tailoring
+
+1753
+01:09:53,189 --> 01:09:55,869
+there certainly would be required if
+
+1754
+01:09:55,869 --> 01:09:57,849
+this Court were to categorize 3d
+
+1755
+01:09:57,849 --> 01:10:00,039
+printable gun files as speech a need for
+
+1756
+01:10:00,039 --> 01:10:02,019
+closer closer tailoring and we do
+
+1757
+01:10:02,019 --> 01:10:03,670
+believe that the GV PA meets that need
+
+1758
+01:10:03,670 --> 01:10:06,460
+because it is unlike statutes that this
+
+1759
+01:10:06,460 --> 01:10:08,739
+Court has recently struck down as
+
+1760
+01:10:08,739 --> 01:10:10,869
+unconstitutional under both intermediate
+
+1761
+01:10:10,869 --> 01:10:12,789
+and strict scrutiny for example in
+
+1762
+01:10:12,789 --> 01:10:14,530
+packing ham this court noted that the
+
+1763
+01:10:14,530 --> 01:10:17,579
+statute there was vague because it left
+
+1764
+01:10:17,579 --> 01:10:20,619
+sex offenders and those subject to the
+
+1765
+01:10:20,619 --> 01:10:24,369
+statute in purgatory not knowing whether
+
+1766
+01:10:24,369 --> 01:10:26,050
+they could access sites like Amazon or
+
+1767
+01:10:26,050 --> 01:10:28,539
+Facebook here the statute is clear it
+
+1768
+01:10:28,539 --> 01:10:31,119
+cabins its language its plain text to
+
+1769
+01:10:31,119 --> 01:10:33,519
+specific files those with instructions
+
+1770
+01:10:33,519 --> 01:10:35,320
+that can automatically print a firearm
+
+1771
+01:10:35,320 --> 01:10:37,479
+it also allows for alternative methods
+
+1772
+01:10:37,479 --> 01:10:40,210
+of communication through email private
+
+1773
+01:10:40,210 --> 01:10:41,800
+messaging and others those do you lose
+
+1774
+01:10:41,800 --> 01:10:45,369
+if we think this is content-based no
+
+1775
+01:10:45,369 --> 01:10:47,979
+your on each restriction no your honor
+
+1776
+01:10:47,979 --> 01:10:50,289
+we do not assume it is content-based
+
+1777
+01:10:50,289 --> 01:10:53,769
+how do you meet scrutiny well your honor
+
+1778
+01:10:53,769 --> 01:10:55,150
+in the first instance if this is
+
+1779
+01:10:55,150 --> 01:10:56,710
+facially content-based we believe the
+
+1780
+01:10:56,710 --> 01:10:59,199
+secondary effects doctrine can be used
+
+1781
+01:10:59,199 --> 01:11:01,570
+in order to send this regulation we
+
+1782
+01:11:01,570 --> 01:11:05,550
+never use that doctrine outside of adult
+
+1783
+01:11:05,550 --> 01:11:09,519
+businesses and and I'm not quite sure I
+
+1784
+01:11:09,519 --> 01:11:12,670
+understand how we would apply it to this
+
+1785
+01:11:12,670 --> 01:11:15,460
+situation that there is a portion of the
+
+1786
+01:11:15,460 --> 01:11:18,820
+population that might illegally use this
+
+1787
+01:11:18,820 --> 01:11:23,070
+gun there still a portion that won't
+
+1788
+01:11:23,070 --> 01:11:26,849
+certainly so in the secondary effects
+
+1789
+01:11:26,849 --> 01:11:28,210
+content
+
+1790
+01:11:28,210 --> 01:11:30,520
+there's the existence of secondary
+
+1791
+01:11:30,520 --> 01:11:34,000
+effects that actually insist exists that
+
+1792
+01:11:34,000 --> 01:11:38,770
+justify a state regulation but why would
+
+1793
+01:11:38,770 --> 01:11:41,230
+that doctrine apply here I see my time
+
+1794
+01:11:41,230 --> 01:11:42,880
+is expired if your honor would allow I
+
+1795
+01:11:42,880 --> 01:11:45,130
+will answer as quickly as possible we
+
+1796
+01:11:45,130 --> 01:11:46,690
+believe the secondary effects doctrine
+
+1797
+01:11:46,690 --> 01:11:48,219
+is applicable here although it's only
+
+1798
+01:11:48,219 --> 01:11:50,650
+been it's only been used to uphold a
+
+1799
+01:11:50,650 --> 01:11:53,110
+statute in the adult business concept
+
+1800
+01:11:53,110 --> 01:11:54,640
+context it has not been captained to
+
+1801
+01:11:54,640 --> 01:11:56,830
+that area this Court has analyzed
+
+1802
+01:11:56,830 --> 01:11:59,950
+secondary effects under Rav and boos V
+
+1803
+01:11:59,950 --> 01:12:02,980
+Barry and it is exactly necessary here
+
+1804
+01:12:02,980 --> 01:12:04,870
+because the G V P is justified by crime
+
+1805
+01:12:04,870 --> 01:12:08,469
+prevention a secondary effects aimed at
+
+1806
+01:12:08,469 --> 01:12:10,110
+secondary effects like crime prevention
+
+1807
+01:12:10,110 --> 01:12:12,489
+your honor for these reasons we would
+
+1808
+01:12:12,489 --> 01:12:14,200
+urge that this court affirm the lower
+
+1809
+01:12:14,200 --> 01:12:17,310
+court ruling thank you
+
+1810
+01:12:17,340 --> 01:12:22,210
+petitioners you have three minutes of
+
+1811
+01:12:22,210 --> 01:12:29,890
+rebuttal are you addressing both issues
+
+1812
+01:12:29,890 --> 01:12:31,600
+are just your issue yes your honor I
+
+1813
+01:12:31,600 --> 01:12:33,580
+have one point on each issue I would
+
+1814
+01:12:33,580 --> 01:12:34,870
+like to begin with the Second Amendment
+
+1815
+01:12:34,870 --> 01:12:38,260
+issue again before this court the state
+
+1816
+01:12:38,260 --> 01:12:40,900
+does not really make an argument for why
+
+1817
+01:12:40,900 --> 01:12:42,880
+the law the restriction on girls is
+
+1818
+01:12:42,880 --> 01:12:44,320
+right to bear arms would pass strict
+
+1819
+01:12:44,320 --> 01:12:46,239
+scrutiny and to get into intermediate
+
+1820
+01:12:46,239 --> 01:12:47,680
+scrutiny and they rely on this notion
+
+1821
+01:12:47,680 --> 01:12:49,900
+that Heller split the Second Amendment
+
+1822
+01:12:49,900 --> 01:12:52,570
+right into a core and a non core but I
+
+1823
+01:12:52,570 --> 01:12:54,610
+would like to read a brief bit of that
+
+1824
+01:12:54,610 --> 01:12:57,100
+part of Heller at page 66 35 of that
+
+1825
+01:12:57,100 --> 01:12:58,810
+opinion it said that the Second
+
+1826
+01:12:58,810 --> 01:13:00,280
+Amendment is the very product of an
+
+1827
+01:13:00,280 --> 01:13:01,810
+interest balancing by the people and
+
+1828
+01:13:01,810 --> 01:13:03,460
+whatever else it leaves the future
+
+1829
+01:13:03,460 --> 01:13:04,300
+evaluation
+
+1830
+01:13:04,300 --> 01:13:07,000
+it surely evaluates above all sir pardon
+
+1831
+01:13:07,000 --> 01:13:08,860
+me I surely elevates above all other
+
+1832
+01:13:08,860 --> 01:13:10,420
+interests the right of law-abiding
+
+1833
+01:13:10,420 --> 01:13:12,790
+responsible citizens to use arms and
+
+1834
+01:13:12,790 --> 01:13:14,980
+defense of hearth and home and the state
+
+1835
+01:13:14,980 --> 01:13:16,719
+reads this to create a sort of tear or
+
+1836
+01:13:16,719 --> 01:13:18,640
+tranche system who anybody who's not a
+
+1837
+01:13:18,640 --> 01:13:20,739
+law-abiding responsible citizen doesn't
+
+1838
+01:13:20,739 --> 01:13:22,750
+have the full second Amendment right but
+
+1839
+01:13:22,750 --> 01:13:24,310
+in context it's clear Justice Scalia
+
+1840
+01:13:24,310 --> 01:13:26,140
+Justice Scalia was simply responding to
+
+1841
+01:13:26,140 --> 01:13:27,820
+Justice Breyer on the question of
+
+1842
+01:13:27,820 --> 01:13:29,830
+whether the interest of persons like
+
+1843
+01:13:29,830 --> 01:13:31,540
+Heller could be elevated over the
+
+1844
+01:13:31,540 --> 01:13:33,520
+state's constitutional interests so that
+
+1845
+01:13:33,520 --> 01:13:35,080
+says nothing about whether others
+
+1846
+01:13:35,080 --> 01:13:38,590
+interests are similarly diminished as
+
+1847
+01:13:38,590 --> 01:13:40,390
+the state says that it should be here
+
+1848
+01:13:40,390 --> 01:13:41,090
+and in
+
+1849
+01:13:41,090 --> 01:13:46,400
+your adversary is making a slightly
+
+1850
+01:13:46,400 --> 01:13:49,489
+different more nuanced argument his
+
+1851
+01:13:49,489 --> 01:13:51,699
+argument is not that there's a tear in
+
+1852
+01:13:51,699 --> 01:13:54,349
+constitutional rights but that the
+
+1853
+01:13:54,349 --> 01:13:57,679
+source of the state's power comes from a
+
+1854
+01:13:57,679 --> 01:14:00,849
+different source and that the source of
+
+1855
+01:14:00,849 --> 01:14:03,739
+prohibiting felons from possessing
+
+1856
+01:14:03,739 --> 01:14:06,880
+firearms comes from the police source
+
+1857
+01:14:06,880 --> 01:14:10,250
+the First Amendment on the other hand is
+
+1858
+01:14:10,250 --> 01:14:13,310
+not a part of the policing power it's
+
+1859
+01:14:13,310 --> 01:14:15,739
+part of the marketplace of ideas to
+
+1860
+01:14:15,739 --> 01:14:19,790
+which even felons participates because
+
+1861
+01:14:19,790 --> 01:14:23,690
+they contribute and so if you view it
+
+1862
+01:14:23,690 --> 01:14:27,199
+that way how does what remains of your
+
+1863
+01:14:27,199 --> 01:14:30,800
+two-tier argument Your Honor I think I
+
+1864
+01:14:30,800 --> 01:14:32,420
+would disagree that the state's argument
+
+1865
+01:14:32,420 --> 01:14:34,790
+as to the tearing portion really looks
+
+1866
+01:14:34,790 --> 01:14:37,219
+to that felon non felon distinction but
+
+1867
+01:14:37,219 --> 01:14:38,780
+in either event both the state's reading
+
+1868
+01:14:38,780 --> 01:14:40,099
+of Heller and the theory you've
+
+1869
+01:14:40,099 --> 01:14:43,219
+articulated but runs afoul of the
+
+1870
+01:14:43,219 --> 01:14:45,110
+principle this court articulated in
+
+1871
+01:14:45,110 --> 01:14:46,790
+McDonald that the Second Amendment is a
+
+1872
+01:14:46,790 --> 01:14:49,250
+fundamental right and it should not be
+
+1873
+01:14:49,250 --> 01:14:51,199
+treated cannot be treated indeed as a
+
+1874
+01:14:51,199 --> 01:14:53,510
+second class way turning to the First
+
+1875
+01:14:53,510 --> 01:14:55,070
+Amendment point with my remaining time
+
+1876
+01:14:55,070 --> 01:14:57,320
+the state again today as it did in its
+
+1877
+01:14:57,320 --> 01:14:58,790
+papers relies on a narrowing
+
+1878
+01:14:58,790 --> 01:15:00,800
+construction of this statute indeed it
+
+1879
+01:15:00,800 --> 01:15:02,239
+does not defend the constitutionality of
+
+1880
+01:15:02,239 --> 01:15:04,460
+the law beyond that interpretation and
+
+1881
+01:15:04,460 --> 01:15:06,500
+we think that interpretation presents
+
+1882
+01:15:06,500 --> 01:15:09,050
+its own constitutional concerns namely
+
+1883
+01:15:09,050 --> 01:15:11,030
+it would be a real chilling concern the
+
+1884
+01:15:11,030 --> 01:15:13,070
+state would read its statute to regulate
+
+1885
+01:15:13,070 --> 01:15:15,139
+just some computer-aided design files
+
+1886
+01:15:15,139 --> 01:15:17,060
+even though its text plainly
+
+1887
+01:15:17,060 --> 01:15:19,280
+criminalizes and imposes a 5-year jail
+
+1888
+01:15:19,280 --> 01:15:20,989
+sentence on the publication of
+
+1889
+01:15:20,989 --> 01:15:22,969
+computer-aided design files the
+
+1890
+01:15:22,969 --> 01:15:24,710
+regulated community here is we submit in
+
+1891
+01:15:24,710 --> 01:15:26,780
+our reply brief understands that phrase
+
+1892
+01:15:26,780 --> 01:15:28,639
+to be the kind of files that do need
+
+1893
+01:15:28,639 --> 01:15:30,170
+alteration before a 3d printer can
+
+1894
+01:15:30,170 --> 01:15:31,909
+understand them and therefore even the
+
+1895
+01:15:31,909 --> 01:15:33,590
+state's narrowing construction raises
+
+1896
+01:15:33,590 --> 01:15:35,179
+constitutional concerns of its own and
+
+1897
+01:15:35,179 --> 01:15:36,830
+for these reasons we ask that the court
+
+1898
+01:15:36,830 --> 01:15:40,270
+reverse thank you
+
+1899
+01:15:43,390 --> 01:15:48,460
+we are will retire to delivery
+
+1900
+01:15:54,870 --> 01:15:58,060
+[Music]
+
+1901
+01:16:28,830 --> 01:16:32,060
+[Music]
+
+1902
+01:17:07,689 --> 01:17:31,119
+all rise please have a seat
+
+1903
+01:17:35,020 --> 01:17:38,510
+well before we announce the winners and
+
+1904
+01:17:38,510 --> 01:17:40,670
+I don't know what the normal protocol is
+
+1905
+01:17:40,670 --> 01:17:43,130
+the three of us want to make a few
+
+1906
+01:17:43,130 --> 01:17:45,890
+statements so we figured after we
+
+1907
+01:17:45,890 --> 01:17:49,130
+announce who won the rest of you
+
+1908
+01:17:49,130 --> 01:17:50,330
+wouldn't be interested in sticking
+
+1909
+01:17:50,330 --> 01:17:55,430
+around I said well take advantage well
+
+1910
+01:17:55,430 --> 01:17:59,320
+the last time I was at Ames Finals was
+
+1911
+01:17:59,320 --> 01:18:01,970
+1991 before some of you were born I
+
+1912
+01:18:01,970 --> 01:18:06,800
+guess and this was a bad night for me
+
+1913
+01:18:06,800 --> 01:18:09,830
+because we lost it was a good night in
+
+1914
+01:18:09,830 --> 01:18:12,200
+many many respects and I learned a lot
+
+1915
+01:18:12,200 --> 01:18:15,860
+but we did not win but interestingly
+
+1916
+01:18:15,860 --> 01:18:18,920
+enough we had three judges on our panel
+
+1917
+01:18:18,920 --> 01:18:23,480
+we had justice Souter we had judge Taha
+
+1918
+01:18:23,480 --> 01:18:27,950
+and we had judge Patrick Higginbotham
+
+1919
+01:18:27,950 --> 01:18:30,290
+from the fifth circuit and the reason I
+
+1920
+01:18:30,290 --> 01:18:32,030
+tell you this is that it was a
+
+1921
+01:18:32,030 --> 01:18:35,030
+two-to-one split decision and judge
+
+1922
+01:18:35,030 --> 01:18:37,190
+Patrick Higginbotham wanted it to be
+
+1923
+01:18:37,190 --> 01:18:40,630
+known that he had voted for our team and
+
+1924
+01:18:40,630 --> 01:18:43,790
+which was which was I was happy about
+
+1925
+01:18:43,790 --> 01:18:46,600
+that but what I was really happy was
+
+1926
+01:18:46,600 --> 01:18:52,400
+that in 2007 I was named to succeed
+
+1927
+01:18:52,400 --> 01:18:55,460
+judge Patrick Higginbotham on the 5th
+
+1928
+01:18:55,460 --> 01:18:58,060
+circuit
+
+1929
+01:19:02,060 --> 01:19:05,190
+so I and I get to work with him still
+
+1930
+01:19:05,190 --> 01:19:07,050
+now all the time because he's a very
+
+1931
+01:19:07,050 --> 01:19:09,900
+active judge on our court but I tell you
+
+1932
+01:19:09,900 --> 01:19:12,900
+that so if you lose tonight you could
+
+1933
+01:19:12,900 --> 01:19:17,940
+replace one of us said answer and I and
+
+1934
+01:19:17,940 --> 01:19:20,010
+I hope you do and hope you do well I
+
+1935
+01:19:20,010 --> 01:19:22,800
+want to thank you this you you could all
+
+1936
+01:19:22,800 --> 01:19:24,840
+do this for a living you should know
+
+1937
+01:19:24,840 --> 01:19:27,360
+that and be proud of the work that your
+
+1938
+01:19:27,360 --> 01:19:29,310
+team has done the briefing and the
+
+1939
+01:19:29,310 --> 01:19:33,360
+argument superb the problem is a superb
+
+1940
+01:19:33,360 --> 01:19:36,330
+timely problem it is certainly not moot
+
+1941
+01:19:36,330 --> 01:19:40,080
+in the first sense of the definition and
+
+1942
+01:19:40,080 --> 01:19:42,810
+I want to also express appreciation to
+
+1943
+01:19:42,810 --> 01:19:44,580
+the members of the BSA who worked
+
+1944
+01:19:44,580 --> 01:19:47,010
+tirelessly and a Vaughn Smith who was
+
+1945
+01:19:47,010 --> 01:19:49,320
+working here back when I was here and
+
+1946
+01:19:49,320 --> 01:19:51,330
+has observed our this school for 40
+
+1947
+01:19:51,330 --> 01:19:54,230
+years so thank you
+
+1948
+01:20:02,219 --> 01:20:05,320
+well I did not argue here but I was
+
+1949
+01:20:05,320 --> 01:20:09,070
+intimidated by this room and it's nice
+
+1950
+01:20:09,070 --> 01:20:10,719
+to be sitting on the bench as opposed to
+
+1951
+01:20:10,719 --> 01:20:14,950
+there yet this has been so much fun the
+
+1952
+01:20:14,950 --> 01:20:16,660
+problem was really wonderfully crafted
+
+1953
+01:20:16,660 --> 01:20:19,090
+it had so many interesting issues and
+
+1954
+01:20:19,090 --> 01:20:21,040
+really challenging issues for both sides
+
+1955
+01:20:21,040 --> 01:20:23,469
+I loved reading your briefs and hearing
+
+1956
+01:20:23,469 --> 01:20:26,260
+you tonight you were so poised and ready
+
+1957
+01:20:26,260 --> 01:20:28,660
+to parry with us whatever we threw your
+
+1958
+01:20:28,660 --> 01:20:32,530
+way you didn't lose a beat you responded
+
+1959
+01:20:32,530 --> 01:20:34,870
+you didn't lean on the bench and roll
+
+1960
+01:20:34,870 --> 01:20:37,060
+your eyes at a dumb question you just
+
+1961
+01:20:37,060 --> 01:20:40,090
+were patient and you all did really a
+
+1962
+01:20:40,090 --> 01:20:42,040
+fantastic job and it was really just a
+
+1963
+01:20:42,040 --> 01:20:45,850
+pleasure to be here questioning you and
+
+1964
+01:20:45,850 --> 01:20:49,510
+hearing the the fruits of your very hard
+
+1965
+01:20:49,510 --> 01:20:52,360
+work overtime Harvard Law School is
+
+1966
+01:20:52,360 --> 01:20:53,650
+doing a good job and you're doing a
+
+1967
+01:20:53,650 --> 01:20:55,600
+really good job so congratulations to
+
+1968
+01:20:55,600 --> 01:20:57,719
+you
+
+1969
+01:21:02,860 --> 01:21:06,890
+it's hard enough to do these arguments
+
+1970
+01:21:06,890 --> 01:21:10,040
+when they're real when they're not
+
+1971
+01:21:10,040 --> 01:21:13,820
+McCourt's so you might wonder why do we
+
+1972
+01:21:13,820 --> 01:21:16,960
+do them and we can tell you that we're
+
+1973
+01:21:16,960 --> 01:21:19,240
+altruistic that we don't want to help
+
+1974
+01:21:19,240 --> 01:21:21,500
+our alma mater z' and
+
+1975
+01:21:21,500 --> 01:21:27,620
+help students I admit the truth every
+
+1976
+01:21:27,620 --> 01:21:30,680
+time I come to one of these and I see
+
+1977
+01:21:30,680 --> 01:21:34,040
+the extraordinary performances of the
+
+1978
+01:21:34,040 --> 01:21:38,360
+students at these exercises it fills me
+
+1979
+01:21:38,360 --> 01:21:42,350
+with hope about the future it shows me
+
+1980
+01:21:42,350 --> 01:21:45,700
+that you are being trained to think and
+
+1981
+01:21:45,700 --> 01:21:51,160
+to respond in extraordinarily loyally
+
+1982
+01:21:51,160 --> 01:21:54,770
+professional ways and that you carry in
+
+1983
+01:21:54,770 --> 01:21:59,330
+your hands our future in a really good
+
+1984
+01:21:59,330 --> 01:22:03,350
+way so I come here for you to give me
+
+1985
+01:22:03,350 --> 01:22:09,410
+hope and so it's selfish of me I really
+
+1986
+01:22:09,410 --> 01:22:12,260
+was incredibly impressed with each and
+
+1987
+01:22:12,260 --> 01:22:15,590
+every one of you you were prepared
+
+1988
+01:22:15,590 --> 01:22:18,170
+you knew your case you didn't let us
+
+1989
+01:22:18,170 --> 01:22:22,400
+rattle you you had thought through your
+
+1990
+01:22:22,400 --> 01:22:25,310
+strategy of presentation you stuck to it
+
+1991
+01:22:25,310 --> 01:22:27,440
+you did everything we want a
+
+1992
+01:22:27,440 --> 01:22:33,370
+well-prepared lawyer to do thank you
+
+1993
+01:22:40,370 --> 01:22:43,980
+the hardest part of this exercise for us
+
+1994
+01:22:43,980 --> 01:22:48,060
+is the judging because it's always so
+
+1995
+01:22:48,060 --> 01:22:52,680
+close it's usually a hair apart between
+
+1996
+01:22:52,680 --> 01:22:56,100
+the two teams just like tonight and we
+
+1997
+01:22:56,100 --> 01:22:59,160
+end up voting on little things that most
+
+1998
+01:22:59,160 --> 01:23:01,440
+people in the audience would really
+
+1999
+01:23:01,440 --> 01:23:05,100
+rightly call insignificant but when you
+
+2000
+01:23:05,100 --> 01:23:09,180
+have two so evenly matched teams you got
+
+2001
+01:23:09,180 --> 01:23:12,750
+to break the tie somehow and so we found
+
+2002
+01:23:12,750 --> 01:23:15,480
+little things to break it on but I do
+
+2003
+01:23:15,480 --> 01:23:18,630
+want to say that it wasn't from a lack
+
+2004
+01:23:18,630 --> 01:23:21,870
+of superb performance by each and every
+
+2005
+01:23:21,870 --> 01:23:27,210
+one of you having said that it was
+
+2006
+01:23:27,210 --> 01:23:31,020
+interesting this exercise it was and
+
+2007
+01:23:31,020 --> 01:23:33,840
+what I found so wonderful about it is
+
+2008
+01:23:33,840 --> 01:23:35,940
+these are cases that are going to come
+
+2009
+01:23:35,940 --> 01:23:36,930
+through the courts
+
+2010
+01:23:36,930 --> 01:23:39,390
+they are wending their way through the
+
+2011
+01:23:39,390 --> 01:23:44,760
+courts right now the first issue on on
+
+2012
+01:23:44,760 --> 01:23:48,840
+these CAD designs as one of you pointed
+
+2013
+01:23:48,840 --> 01:23:51,990
+out new jersey has a similar law and
+
+2014
+01:23:51,990 --> 01:23:55,590
+that's already in the courts with
+
+2015
+01:23:55,590 --> 01:23:58,620
+respect to the second issue it was one
+
+2016
+01:23:58,620 --> 01:24:00,900
+that was raised by a cert petition if
+
+2017
+01:24:00,900 --> 01:24:04,710
+not a year two years ago and so it's
+
+2018
+01:24:04,710 --> 01:24:08,430
+down there percolating whether the fact
+
+2019
+01:24:08,430 --> 01:24:10,980
+scenario that arises before us will be
+
+2020
+01:24:10,980 --> 01:24:14,150
+identical to yours or not I don't know
+
+2021
+01:24:14,150 --> 01:24:20,250
+but each side had stronger arguments on
+
+2022
+01:24:20,250 --> 01:24:22,640
+one question weaker arguments on another
+
+2023
+01:24:22,640 --> 01:24:26,630
+and it was a really well-done exercise
+
+2024
+01:24:26,630 --> 01:24:29,700
+having said all of that please remember
+
+2025
+01:24:29,700 --> 01:24:33,270
+that by choosing a winner of each
+
+2026
+01:24:33,270 --> 01:24:36,300
+category it should mean nothing to the
+
+2027
+01:24:36,300 --> 01:24:39,180
+person we haven't chosen you perform
+
+2028
+01:24:39,180 --> 01:24:45,590
+just as well the difference was a slice
+
+2029
+01:24:47,790 --> 01:24:55,650
+I couldn't help that best arles Matt
+
+2030
+01:24:55,650 --> 01:24:58,489
+Scott ciao
+
+2031
+01:25:11,570 --> 01:25:15,120
+best brief petitioner the grace Murray
+
+2032
+01:25:15,120 --> 01:25:18,530
+hopper memorial team
+
+2033
+01:25:24,330 --> 01:25:29,720
+and best team overall petitioner
+
+2034
+01:25:44,489 --> 01:25:49,760
+I echo my thanks to all of the Eames
+
+2035
+01:25:49,760 --> 01:25:53,429
+teammates who worked so hard to put this
+
+2036
+01:25:53,429 --> 01:25:56,969
+together to all the faculty and judges
+
+2037
+01:25:56,969 --> 01:25:59,639
+who were a part of the various stages of
+
+2038
+01:25:59,639 --> 01:26:02,749
+the competition to all the participants
+
+2039
+01:26:02,749 --> 01:26:05,699
+this kind of teamwork is something that
+
+2040
+01:26:05,699 --> 01:26:07,199
+stays with you for life
+
+2041
+01:26:07,199 --> 01:26:10,980
+judge Elrod told you her story but she's
+
+2042
+01:26:10,980 --> 01:26:13,889
+absolutely right those who weren't
+
+2043
+01:26:13,889 --> 01:26:17,670
+chosen tonight will be sitting in very
+
+2044
+01:26:17,670 --> 01:26:19,769
+important positions some day and
+
+2045
+01:26:19,769 --> 01:26:22,980
+remember her story thank you all for a
+
+2046
+01:26:22,980 --> 01:26:25,550
+wonderful evening
+
+2047
+01:26:49,030 --> 01:26:51,090
+you
+
+2048
+01:26:56,870 --> 01:26:58,930
+you
+
